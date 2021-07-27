@@ -1,0 +1,1320 @@
+mardi 1 septembre 2020, 20:16:35 (UTC+0200)
+Réception de :1 http://archive.raspberrypi.org/debian buster InRelease [32,6 kB]
+Réception de :2 http://archive.raspberrypi.org/debian buster/main armhf Packages [331 kB]
+Réception de :4 http://raspbian.raspberrypi.org/raspbian buster InRelease [15,0 kB]
+Atteint :3 https://packagecloud.io/headmelted/codebuilds/debian stretch InRelease
+Réception de :5 http://raspbian.raspberrypi.org/raspbian buster/main armhf Packages [13,0 MB]
+13,4 Mo réceptionnés en 6s (2185 ko/s)
+Lecture des listes de paquets...
+Construction de l'arbre des dépendances...
+Lecture des informations d'état...
+5 paquets peuvent être mis à jour. Exécutez apt list --upgradable pour les voir.
+============================================================================
+mercredi 2 septembre 2020, 19:09:29 (UTC+0200)
+En train de lister...
+alacarte/testing 3.11.91-4+rpt2 all [pouvant être mis à jour depuis : 3.11.91-4+rpt1]
+lxplug-cputemp/testing 0.5 armhf [pouvant être mis à jour depuis : 0.4]
+rpi-eeprom/testing 7.12-1 all [pouvant être mis à jour depuis : 7.11-1]
+============================================================================
+jeudi 3 septembre 2020, 00:56:33 (UTC+0200)
+En train de lister...
+libvlc-bin/testing 3.0.11-0+deb10u1+rpt3 armhf [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+libvlc5/testing 3.0.11-0+deb10u1+rpt3 armhf [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+libvlccore9/testing 3.0.11-0+deb10u1+rpt3 armhf [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+vlc-bin/testing 3.0.11-0+deb10u1+rpt3 armhf [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+vlc-data/testing 3.0.11-0+deb10u1+rpt3 all [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+vlc-l10n/testing 3.0.11-0+deb10u1+rpt3 all [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+vlc-plugin-base/testing 3.0.11-0+deb10u1+rpt3 armhf [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+vlc-plugin-notify/testing 3.0.11-0+deb10u1+rpt3 armhf [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+vlc-plugin-qt/testing 3.0.11-0+deb10u1+rpt3 armhf [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+vlc-plugin-samba/testing 3.0.11-0+deb10u1+rpt3 armhf [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+vlc-plugin-skins2/testing 3.0.11-0+deb10u1+rpt3 armhf [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+vlc-plugin-video-output/testing 3.0.11-0+deb10u1+rpt3 armhf [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+vlc-plugin-video-splitter/testing 3.0.11-0+deb10u1+rpt3 armhf [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+vlc-plugin-visualization/testing 3.0.11-0+deb10u1+rpt3 armhf [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+vlc/testing 3.0.11-0+deb10u1+rpt3 armhf [pouvant être mis à jour depuis : 3.0.11-0+deb10u1+rpt2]
+============================================================================
+jeudi 3 septembre 2020, 21:18:47 (UTC+0200)
+En train de lister...
+============================================================================
+vendredi 4 septembre 2020, 17:20:25 (UTC+0200)
+En train de lister...
+bluez-firmware/testing 1.2-4+rpt5 all [pouvant être mis à jour depuis : 1.2-4+rpt4]
+libfm-data/testing 1.3.1-1+rpt16 all [pouvant être mis à jour depuis : 1.3.1-1+rpt15]
+libfm-extra4/testing 1.3.1-1+rpt16 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt15]
+libfm-gtk-data/testing 1.3.1-1+rpt16 all [pouvant être mis à jour depuis : 1.3.1-1+rpt15]
+libfm-gtk4/testing 1.3.1-1+rpt16 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt15]
+libfm-modules/testing 1.3.1-1+rpt16 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt15]
+libfm4/testing 1.3.1-1+rpt16 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt15]
+pcmanfm/testing 1.3.1-1+rpt23 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt22]
+rpi-eeprom/testing 7.14-1 all [pouvant être mis à jour depuis : 7.12-1]
+wolfram-engine/testing 12.1.1+2020081901 armhf [pouvant être mis à jour depuis : 12.0.1+2019062401]
+wolframscript/testing 1.4.0+2020081702 armhf [pouvant être mis à jour depuis : 1.3.0+2019062801]
+============================================================================
+lundi 7 septembre 2020, 18:41:25 (UTC+0200)
+En train de lister...
+rpi-eeprom/testing 8.0-1 all [pouvant être mis à jour depuis : 7.14-1]
+============================================================================
+mardi 8 septembre 2020, 12:33:14 (UTC+0200)
+En train de lister...
+libzmq5/stable 4.3.1-4+deb10u2 armhf [pouvant être mis à jour depuis : 4.3.1-4+deb10u1]
+============================================================================
+mercredi 9 septembre 2020, 11:34:12 (UTC+0200)
+En train de lister...
+xserver-common/testing 2:1.20.4-1+rpt2+deb10u1 all [pouvant être mis à jour depuis : 2:1.20.4-1+rpt2]
+xserver-xorg-core/testing 2:1.20.4-1+rpt2+deb10u1 armhf [pouvant être mis à jour depuis : 2:1.20.4-1+rpt2]
+============================================================================
+vendredi 11 septembre 2020, 00:18:29 (UTC+0200)
+En train de lister...
+============================================================================
+vendredi 11 septembre 2020, 19:43:28 (UTC+0200)
+En train de lister...
+rpi-chromium-mods/testing 20200901 armhf [pouvant être mis à jour depuis : 20200810]
+============================================================================
+mardi 15 septembre 2020, 00:23:02 (UTC+0200)
+En train de lister...
+rpi-eeprom/testing 9.0-1 all [pouvant être mis à jour depuis : 8.0-1]
+============================================================================
+jeudi 17 septembre 2020, 12:01:24 (UTC+0200)
+En train de lister...
+============================================================================
+vendredi 18 septembre 2020, 23:16:32 (UTC+0200)
+En train de lister...
+agnostics/testing 0.5 armhf [pouvant être mis à jour depuis : 0.4]
+libraspberrypi-bin/testing 1.20200902-1 armhf [pouvant être mis à jour depuis : 1.20200819-1]
+libraspberrypi-dev/testing 1.20200902-1 armhf [pouvant être mis à jour depuis : 1.20200819-1]
+libraspberrypi-doc/testing 1.20200902-1 armhf [pouvant être mis à jour depuis : 1.20200819-1]
+libraspberrypi0/testing 1.20200902-1 armhf [pouvant être mis à jour depuis : 1.20200819-1]
+lxplug-ejecter/testing 0.11 armhf [pouvant être mis à jour depuis : 0.10]
+pprompt/testing 0.17 all [pouvant être mis à jour depuis : 0.16]
+raspberrypi-bootloader/testing 1.20200902-1 armhf [pouvant être mis à jour depuis : 1.20200819-1]
+raspberrypi-kernel/testing 1.20200902-1 armhf [pouvant être mis à jour depuis : 1.20200819-1]
+raspi-config/testing 20200902 all [pouvant être mis à jour depuis : 20200817]
+rc-gui/testing 1.41 armhf [pouvant être mis à jour depuis : 1.39]
+============================================================================
+lundi 21 septembre 2020, 17:06:42 (UTC+0200)
+En train de lister...
+lxplug-ptbatt/testing 0.12 armhf [pouvant être mis à jour depuis : 0.11]
+============================================================================
+vendredi 25 septembre 2020, 11:16:44 (UTC+0200)
+En train de lister...
+ruby-activesupport/stable 2:5.2.2.1+dfsg-1+deb10u2 all [pouvant être mis à jour depuis : 2:5.2.2.1+dfsg-1+deb10u1]
+============================================================================
+vendredi 25 septembre 2020, 23:35:29 (UTC+0200)
+En train de lister...
+lxplug-bluetooth/testing 0.15 armhf [pouvant être mis à jour depuis : 0.14]
+============================================================================
+samedi 26 septembre 2020, 17:50:46 (UTC+0200)
+En train de lister...
+libcommons-compress-java/stable 1.18-2+deb10u1 all [pouvant être mis à jour depuis : 1.18-2]
+npm/stable 5.8.0+ds6-4+deb10u2 all [pouvant être mis à jour depuis : 5.8.0+ds6-4+deb10u1]
+============================================================================
+samedi 26 septembre 2020, 22:46:13 (UTC+0200)
+En train de lister...
+libdbi-perl/stable 1.642-1+deb10u1 armhf [pouvant être mis à jour depuis : 1.642-1+b1]
+libgssdp-1.0-3/stable 1.0.5-0+deb10u1 armhf [pouvant être mis à jour depuis : 1.0.2-4]
+libpq5/stable 11.9-0+deb10u1 armhf [pouvant être mis à jour depuis : 11.7-0+deb10u1]
+libx11-6/stable 2:1.6.7-1+deb10u1 armhf [pouvant être mis à jour depuis : 2:1.6.7-1]
+libx11-data/stable 2:1.6.7-1+deb10u1 all [pouvant être mis à jour depuis : 2:1.6.7-1]
+libx11-dev/stable 2:1.6.7-1+deb10u1 armhf [pouvant être mis à jour depuis : 2:1.6.7-1]
+libx11-xcb1/stable 2:1.6.7-1+deb10u1 armhf [pouvant être mis à jour depuis : 2:1.6.7-1]
+python3-zmq/stable 17.1.2-2+deb10u1 armhf [pouvant être mis à jour depuis : 17.1.2-2]
+============================================================================
+dimanche 27 septembre 2020, 11:08:44 (UTC+0200)
+En train de lister...
+libgupnp-1.0-4/stable 1.0.5-0+deb10u1 armhf [pouvant être mis à jour depuis : 1.0.3-3]
+============================================================================
+vendredi 2 octobre 2020, 17:48:25 (UTC+0200)
+En train de lister...
+base-files/stable 10.3+rpi1+deb10u6 armhf [pouvant être mis à jour depuis : 10.3+rpi1+deb10u4]
+libqt5concurrent5/stable 5.11.3+dfsg1-1+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 5.11.3+dfsg1-1+rpi1+deb10u3]
+libqt5core5a/stable 5.11.3+dfsg1-1+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 5.11.3+dfsg1-1+rpi1+deb10u3]
+libqt5dbus5/stable 5.11.3+dfsg1-1+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 5.11.3+dfsg1-1+rpi1+deb10u3]
+libqt5gui5/stable 5.11.3+dfsg1-1+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 5.11.3+dfsg1-1+rpi1+deb10u3]
+libqt5network5/stable 5.11.3+dfsg1-1+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 5.11.3+dfsg1-1+rpi1+deb10u3]
+libqt5opengl5/stable 5.11.3+dfsg1-1+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 5.11.3+dfsg1-1+rpi1+deb10u3]
+libqt5printsupport5/stable 5.11.3+dfsg1-1+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 5.11.3+dfsg1-1+rpi1+deb10u3]
+libqt5sql5-sqlite/stable 5.11.3+dfsg1-1+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 5.11.3+dfsg1-1+rpi1+deb10u3]
+libqt5sql5/stable 5.11.3+dfsg1-1+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 5.11.3+dfsg1-1+rpi1+deb10u3]
+libqt5test5/stable 5.11.3+dfsg1-1+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 5.11.3+dfsg1-1+rpi1+deb10u3]
+libqt5widgets5/stable 5.11.3+dfsg1-1+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 5.11.3+dfsg1-1+rpi1+deb10u3]
+libqt5xml5/stable 5.11.3+dfsg1-1+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 5.11.3+dfsg1-1+rpi1+deb10u3]
+qt5-gtk-platformtheme/stable 5.11.3+dfsg1-1+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 5.11.3+dfsg1-1+rpi1+deb10u3]
+============================================================================
+lundi 5 octobre 2020, 16:50:31 (UTC+0200)
+En train de lister...
+libfm-data/testing 1.3.1-1+rpt17 all [pouvant être mis à jour depuis : 1.3.1-1+rpt16]
+libfm-extra4/testing 1.3.1-1+rpt17 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt16]
+libfm-gtk-data/testing 1.3.1-1+rpt17 all [pouvant être mis à jour depuis : 1.3.1-1+rpt16]
+libfm-gtk4/testing 1.3.1-1+rpt17 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt16]
+libfm-modules/testing 1.3.1-1+rpt17 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt16]
+libfm4/testing 1.3.1-1+rpt17 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt16]
+lxpanel-data/testing 0.10.0-2+rpt13 all [pouvant être mis à jour depuis : 0.10.0-2+rpt12]
+lxpanel/testing 0.10.0-2+rpt13 armhf [pouvant être mis à jour depuis : 0.10.0-2+rpt12]
+lxplug-bluetooth/testing 0.16 armhf [pouvant être mis à jour depuis : 0.15]
+lxplug-network/testing 0.22 armhf [pouvant être mis à jour depuis : 0.21]
+pcmanfm/testing 1.3.1-1+rpt24 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt23]
+pipanel/testing 1:1.6 armhf [pouvant être mis à jour depuis : 1:1.5]
+rc-gui/testing 1.42 armhf [pouvant être mis à jour depuis : 1.41]
+rp-prefapps/testing 0.27 armhf [pouvant être mis à jour depuis : 0.26]
+rpi-eeprom/testing 10.0-1 all [pouvant être mis à jour depuis : 9.0-1]
+============================================================================
+mercredi 7 octobre 2020, 00:52:52 (UTC+0200)
+En train de lister...
+rpi-eeprom/testing 10.1-1 armhf [pouvant être mis à jour depuis : 10.0-1]
+============================================================================
+mercredi 14 octobre 2020, 19:24:28 (UTC+0200)
+En train de lister...
+rpi-chromium-mods/testing 20201014 armhf [pouvant être mis à jour depuis : 20200901]
+============================================================================
+jeudi 15 octobre 2020, 19:05:14 (UTC+0200)
+En train de lister...
+libhttpclient-java/stable 4.5.7-1+deb10u1 all [pouvant être mis à jour depuis : 4.5.7-1]
+============================================================================
+vendredi 16 octobre 2020, 23:37:41 (UTC+0200)
+En train de lister...
+bluez-firmware/testing 1.2-4+rpt6 all [pouvant être mis à jour depuis : 1.2-4+rpt5]
+firmware-atheros/testing 1:20190114-1+rpt9 all [pouvant être mis à jour depuis : 1:20190114-1+rpt8]
+firmware-brcm80211/testing 1:20190114-1+rpt9 all [pouvant être mis à jour depuis : 1:20190114-1+rpt8]
+firmware-libertas/testing 1:20190114-1+rpt9 all [pouvant être mis à jour depuis : 1:20190114-1+rpt8]
+firmware-misc-nonfree/testing 1:20190114-1+rpt9 all [pouvant être mis à jour depuis : 1:20190114-1+rpt8]
+firmware-realtek/testing 1:20190114-1+rpt9 all [pouvant être mis à jour depuis : 1:20190114-1+rpt8]
+============================================================================
+mercredi 21 octobre 2020, 14:55:28 (UTC+0200)
+En train de lister...
+libmariadb3/stable 1:10.3.25-0+deb10u1 armhf [pouvant être mis à jour depuis : 1:10.3.23-0+deb10u1]
+mariadb-client-10.3/stable 1:10.3.25-0+deb10u1 armhf [pouvant être mis à jour depuis : 1:10.3.23-0+deb10u1]
+mariadb-client-core-10.3/stable 1:10.3.25-0+deb10u1 armhf [pouvant être mis à jour depuis : 1:10.3.23-0+deb10u1]
+mariadb-common/stable 1:10.3.25-0+deb10u1 all [pouvant être mis à jour depuis : 1:10.3.23-0+deb10u1]
+mariadb-server-10.3/stable 1:10.3.25-0+deb10u1 armhf [pouvant être mis à jour depuis : 1:10.3.23-0+deb10u1]
+mariadb-server-core-10.3/stable 1:10.3.25-0+deb10u1 armhf [pouvant être mis à jour depuis : 1:10.3.23-0+deb10u1]
+mariadb-server/stable 1:10.3.25-0+deb10u1 all [pouvant être mis à jour depuis : 1:10.3.23-0+deb10u1]
+============================================================================
+jeudi 22 octobre 2020, 12:14:55 (UTC+0200)
+En train de lister...
+libfreetype6-dev/stable 2.9.1-3+deb10u2 armhf [pouvant être mis à jour depuis : 2.9.1-3+deb10u1]
+libfreetype6/stable 2.9.1-3+deb10u2 armhf [pouvant être mis à jour depuis : 2.9.1-3+deb10u1]
+============================================================================
+vendredi 23 octobre 2020, 20:50:01 (UTC+0200)
+En train de lister...
+libraspberrypi-bin/testing 1.20201022-1 armhf [pouvant être mis à jour depuis : 1.20200902-1]
+libraspberrypi-dev/testing 1.20201022-1 armhf [pouvant être mis à jour depuis : 1.20200902-1]
+libraspberrypi-doc/testing 1.20201022-1 armhf [pouvant être mis à jour depuis : 1.20200902-1]
+libraspberrypi0/testing 1.20201022-1 armhf [pouvant être mis à jour depuis : 1.20200902-1]
+raspberrypi-bootloader/testing 1.20201022-1 armhf [pouvant être mis à jour depuis : 1.20200902-1]
+raspberrypi-kernel/testing 1.20201022-1 armhf [pouvant être mis à jour depuis : 1.20200902-1]
+rp-bookshelf/testing 0.5 armhf [pouvant être mis à jour depuis : 0.4]
+============================================================================
+dimanche 25 octobre 2020, 23:14:32 (UTC+0100)
+En train de lister...
+tzdata/stable 2020d-0+deb10u1 all [pouvant être mis à jour depuis : 2020a-0+deb10u1]
+============================================================================
+mardi 27 octobre 2020, 00:27:19 (UTC+0100)
+En train de lister...
+openjdk-11-jdk-headless/stable 11.0.9+11-1~deb10u1 armhf [pouvant être mis à jour depuis : 11.0.8+10-1~deb10u1]
+openjdk-11-jdk/stable 11.0.9+11-1~deb10u1 armhf [pouvant être mis à jour depuis : 11.0.8+10-1~deb10u1]
+openjdk-11-jre-headless/stable 11.0.9+11-1~deb10u1 armhf [pouvant être mis à jour depuis : 11.0.8+10-1~deb10u1]
+openjdk-11-jre/stable 11.0.9+11-1~deb10u1 armhf [pouvant être mis à jour depuis : 11.0.8+10-1~deb10u1]
+raspberrypi-sys-mods/testing 20201026 armhf [pouvant être mis à jour depuis : 20200812]
+============================================================================
+mercredi 28 octobre 2020, 23:31:37 (UTC+0100)
+En train de lister...
+libegl-mesa0/testing 19.3.2-1~bpo10+1~rpt2 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt1]
+libgbm1/testing 19.3.2-1~bpo10+1~rpt2 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt1]
+libgl1-mesa-dri/testing 19.3.2-1~bpo10+1~rpt2 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt1]
+libglapi-mesa/testing 19.3.2-1~bpo10+1~rpt2 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt1]
+libgles2-mesa/testing 19.3.2-1~bpo10+1~rpt2 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt1]
+libglx-mesa0/testing 19.3.2-1~bpo10+1~rpt2 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt1]
+lxplug-volume/testing 0.23 armhf [pouvant être mis à jour depuis : 0.22]
+mesa-va-drivers/testing 19.3.2-1~bpo10+1~rpt2 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt1]
+mesa-vdpau-drivers/testing 19.3.2-1~bpo10+1~rpt2 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt1]
+raspi-config/testing 20201027 all [pouvant être mis à jour depuis : 20200902]
+rc-gui/testing 1.43 armhf [pouvant être mis à jour depuis : 1.42]
+rp-bookshelf/testing 0.6 armhf [pouvant être mis à jour depuis : 0.5]
+============================================================================
+lundi 2 novembre 2020, 19:31:20 (UTC+0100)
+En train de lister...
+pishutdown/testing 0.14 armhf [pouvant être mis à jour depuis : 0.12]
+rpi-eeprom/testing 10.2-1 armhf [pouvant être mis à jour depuis : 10.1-1]
+============================================================================
+jeudi 5 novembre 2020, 11:51:43 (UTC+0100)
+En train de lister...
+chromium-browser-l10n/testing 84.0.4147.105-rpt1 all [pouvant être mis à jour depuis : 78.0.3904.108-rpt1]
+chromium-browser/testing 84.0.4147.105-rpt1 armhf [pouvant être mis à jour depuis : 78.0.3904.108-rpt1]
+chromium-codecs-ffmpeg-extra/testing 84.0.4147.105-rpt1 armhf [pouvant être mis à jour depuis : 78.0.3904.108-rpt1]
+============================================================================
+vendredi 6 novembre 2020, 00:36:17 (UTC+0100)
+En train de lister...
+chromium-browser-l10n/testing 84.0.4147.105-rpt2 all [pouvant être mis à jour depuis : 84.0.4147.105-rpt1]
+chromium-browser/testing 84.0.4147.105-rpt2 armhf [pouvant être mis à jour depuis : 84.0.4147.105-rpt1]
+chromium-codecs-ffmpeg-extra/testing 84.0.4147.105-rpt2 armhf [pouvant être mis à jour depuis : 84.0.4147.105-rpt1]
+============================================================================
+dimanche 8 novembre 2020, 11:19:17 (UTC+0100)
+En train de lister...
+libraptor2-0/stable 2.0.14-1.1~deb10u1 armhf [pouvant être mis à jour depuis : 2.0.14-1]
+============================================================================
+lundi 9 novembre 2020, 01:00:02 (UTC+0100)
+En train de lister...
+libexif12/stable 0.6.21-5.1+deb10u5 armhf [pouvant être mis à jour depuis : 0.6.21-5.1+deb10u4]
+============================================================================
+mercredi 18 novembre 2020, 14:35:09 (UTC+0100)
+En train de lister...
+arandr/testing 0.1.9-2+rpt14 all [pouvant être mis à jour depuis : 0.1.9-2+rpt12]
+libjs-codemirror/stable 5.43.0-1+deb10u1 all [pouvant être mis à jour depuis : 5.43.0-1]
+liblirc-client0/testing 0.10.1-6.2~deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 0.10.1-6.2~deb10u1]
+lxplug-magnifier/testing 0.3 armhf [pouvant être mis à jour depuis : 0.2]
+pipanel/testing 1:1.7 armhf [pouvant être mis à jour depuis : 1:1.6]
+raspi-config/testing 20201108 all [pouvant être mis à jour depuis : 20201027]
+rc-gui/testing 1.44 armhf [pouvant être mis à jour depuis : 1.43]
+rpi-chromium-mods/testing 20201113 armhf [pouvant être mis à jour depuis : 20201014]
+scratch3/testing 1.0.6 armhf [pouvant être mis à jour depuis : 1.0.5]
+thonny/testing 3.3.0-1+rpt1 all [pouvant être mis à jour depuis : 3.2.6-1+rpt1]
+============================================================================
+jeudi 19 novembre 2020, 01:06:32 (UTC+0100)
+En train de lister...
+chromium-browser-l10n/testing 84.0.4147.105-rpt3 all [pouvant être mis à jour depuis : 84.0.4147.105-rpt2]
+chromium-browser/testing 84.0.4147.105-rpt3 armhf [pouvant être mis à jour depuis : 84.0.4147.105-rpt2]
+chromium-codecs-ffmpeg-extra/testing 84.0.4147.105-rpt3 armhf [pouvant être mis à jour depuis : 84.0.4147.105-rpt2]
+dphys-swapfile/testing 20100506-5+rpt2 all [pouvant être mis à jour depuis : 20100506-5+rpt1]
+============================================================================
+vendredi 20 novembre 2020, 19:55:06 (UTC+0100)
+En train de lister...
+libldap-2.4-2/stable 2.4.47+dfsg-3+rpi1+deb10u4 armhf [pouvant être mis à jour depuis : 2.4.47+dfsg-3+rpi1+deb10u2]
+libldap-common/stable 2.4.47+dfsg-3+rpi1+deb10u4 all [pouvant être mis à jour depuis : 2.4.47+dfsg-3+rpi1+deb10u2]
+============================================================================
+dimanche 22 novembre 2020, 13:01:31 (UTC+0100)
+En train de lister...
+libgssapi-krb5-2/stable 1.17-3+deb10u1 armhf [pouvant être mis à jour depuis : 1.17-3]
+libk5crypto3/stable 1.17-3+deb10u1 armhf [pouvant être mis à jour depuis : 1.17-3]
+libkrb5-3/stable 1.17-3+deb10u1 armhf [pouvant être mis à jour depuis : 1.17-3]
+libkrb5support0/stable 1.17-3+deb10u1 armhf [pouvant être mis à jour depuis : 1.17-3]
+============================================================================
+vendredi 27 novembre 2020, 00:24:05 (UTC+0100)
+En train de lister...
+rpi-eeprom/testing 10.3-1 armhf [pouvant être mis à jour depuis : 10.2-1]
+============================================================================
+vendredi 27 novembre 2020, 16:54:58 (UTC+0100)
+En train de lister...
+libjavascriptcoregtk-4.0-18/stable 2.30.3-1~deb10u1+rpi1 armhf [pouvant être mis à jour depuis : 2.28.4-1~deb10u1+rpi1]
+libwebkit2gtk-4.0-37/stable 2.30.3-1~deb10u1+rpi1 armhf [pouvant être mis à jour depuis : 2.28.4-1~deb10u1+rpi1]
+============================================================================
+dimanche 29 novembre 2020, 12:12:12 (UTC+0100)
+En train de lister...
+libproxy-tools/stable 0.4.15-5+deb10u1 armhf [pouvant être mis à jour depuis : 0.4.15-5]
+libproxy1v5/stable 0.4.15-5+deb10u1 armhf [pouvant être mis à jour depuis : 0.4.15-5]
+============================================================================
+lundi 30 novembre 2020, 21:26:44 (UTC+0100)
+En train de lister...
+============================================================================
+mardi 1 décembre 2020, 14:31:20 (UTC+0100)
+En train de lister...
+============================================================================
+mardi 1 décembre 2020, 23:52:39 (UTC+0100)
+En train de lister...
+bluez-firmware/testing 1.2-4+rpt7 all [pouvant être mis à jour depuis : 1.2-4+rpt6]
+firmware-atheros/testing 1:20190114-1+rpt10 all [pouvant être mis à jour depuis : 1:20190114-1+rpt9]
+firmware-brcm80211/testing 1:20190114-1+rpt10 all [pouvant être mis à jour depuis : 1:20190114-1+rpt9]
+firmware-libertas/testing 1:20190114-1+rpt10 all [pouvant être mis à jour depuis : 1:20190114-1+rpt9]
+firmware-misc-nonfree/testing 1:20190114-1+rpt10 all [pouvant être mis à jour depuis : 1:20190114-1+rpt9]
+firmware-realtek/testing 1:20190114-1+rpt10 all [pouvant être mis à jour depuis : 1:20190114-1+rpt9]
+============================================================================
+mercredi 2 décembre 2020, 11:35:30 (UTC+0100)
+En train de lister...
+============================================================================
+jeudi 3 décembre 2020, 00:43:24 (UTC+0100)
+En train de lister...
+libbrotli1/stable 1.0.7-2+deb10u1 armhf [pouvant être mis à jour depuis : 1.0.7-2]
+============================================================================
+jeudi 3 décembre 2020, 11:00:54 (UTC+0100)
+En train de lister...
+============================================================================
+jeudi 3 décembre 2020, 11:01:16 (UTC+0100)
+En train de lister...
+============================================================================
+jeudi 3 décembre 2020, 23:09:08 (UTC+0100)
+En train de lister...
+============================================================================
+dimanche 6 décembre 2020, 00:24:39 (UTC+0100)
+En train de lister...
+distro-info-data/stable 0.41+deb10u3 all [pouvant être mis à jour depuis : 0.41+deb10u2]
+libpulse0/testing 12.2-4+deb10u1+rpi1 armhf [pouvant être mis à jour depuis : 12.2-4+deb10u1]
+libraspberrypi-bin/testing 1.20201201-1 armhf [pouvant être mis à jour depuis : 1.20201022-1]
+libraspberrypi-dev/testing 1.20201201-1 armhf [pouvant être mis à jour depuis : 1.20201022-1]
+libraspberrypi-doc/testing 1.20201201-1 armhf [pouvant être mis à jour depuis : 1.20201022-1]
+libraspberrypi0/testing 1.20201201-1 armhf [pouvant être mis à jour depuis : 1.20201022-1]
+lxplug-bluetooth/testing 0.17 armhf [pouvant être mis à jour depuis : 0.16]
+piwiz/testing 0.19 armhf [pouvant être mis à jour depuis : 0.18]
+pixflat-icons/testing 0.3 all [pouvant être mis à jour depuis : 0.2]
+raspberrypi-bootloader/testing 1.20201201-1 armhf [pouvant être mis à jour depuis : 1.20201022-1]
+raspberrypi-kernel/testing 1.20201201-1 armhf [pouvant être mis à jour depuis : 1.20201022-1]
+raspberrypi-ui-mods/testing 1.20201126 all [pouvant être mis à jour depuis : 1.20200611]
+rpd-plym-splash/testing 0.25 armhf [pouvant être mis à jour depuis : 0.24]
+============================================================================
+mardi 8 décembre 2020, 01:42:24 (UTC+0100)
+En train de lister...
+cups-client/stable 2.2.10-6+deb10u4 armhf [pouvant être mis à jour depuis : 2.2.10-6+deb10u3]
+cups-common/stable 2.2.10-6+deb10u4 all [pouvant être mis à jour depuis : 2.2.10-6+deb10u3]
+cups-core-drivers/stable 2.2.10-6+deb10u4 armhf [pouvant être mis à jour depuis : 2.2.10-6+deb10u3]
+cups-daemon/stable 2.2.10-6+deb10u4 armhf [pouvant être mis à jour depuis : 2.2.10-6+deb10u3]
+cups-ipp-utils/stable 2.2.10-6+deb10u4 armhf [pouvant être mis à jour depuis : 2.2.10-6+deb10u3]
+cups-ppdc/stable 2.2.10-6+deb10u4 armhf [pouvant être mis à jour depuis : 2.2.10-6+deb10u3]
+cups-server-common/stable 2.2.10-6+deb10u4 all [pouvant être mis à jour depuis : 2.2.10-6+deb10u3]
+cups/stable 2.2.10-6+deb10u4 armhf [pouvant être mis à jour depuis : 2.2.10-6+deb10u3]
+libcups2/stable 2.2.10-6+deb10u4 armhf [pouvant être mis à jour depuis : 2.2.10-6+deb10u3]
+libcupsimage2/stable 2.2.10-6+deb10u4 armhf [pouvant être mis à jour depuis : 2.2.10-6+deb10u3]
+libimobiledevice6/stable 1.2.1~git20181030.92c5462-2+deb10u1 armhf [pouvant être mis à jour depuis : 1.2.1~git20181030.92c5462-2]
+libjpeg62-turbo/stable 1:1.5.2-2+deb10u1 armhf [pouvant être mis à jour depuis : 1:1.5.2-2+b1]
+libmariadb3/stable 1:10.3.27-0+deb10u1 armhf [pouvant être mis à jour depuis : 1:10.3.25-0+deb10u1]
+libpulse0/testing 12.2-4+deb10u1+rpi2 armhf [pouvant être mis à jour depuis : 12.2-4+deb10u1+rpi1]
+libpulsedsp/testing 12.2-4+deb10u1+rpi2 armhf [pouvant être mis à jour depuis : 12.2-4+deb10u1+rpi1]
+libruby2.5/stable 2.5.5-3+deb10u3 armhf [pouvant être mis à jour depuis : 2.5.5-3+deb10u2]
+libsqlite3-0/stable 3.27.2-3+deb10u1 armhf [pouvant être mis à jour depuis : 3.27.2-3]
+libxml2/stable 2.9.4+dfsg1-7+deb10u1 armhf [pouvant être mis à jour depuis : 2.9.4+dfsg1-7+b3]
+lxplug-bluetooth/testing 0.18 armhf [pouvant être mis à jour depuis : 0.17]
+lxplug-cputemp/testing 0.6 armhf [pouvant être mis à jour depuis : 0.5]
+lxplug-ejecter/testing 0.12 armhf [pouvant être mis à jour depuis : 0.11]
+lxplug-ptbatt/testing 0.13 armhf [pouvant être mis à jour depuis : 0.12]
+lxplug-volumepulse/testing 0.2 armhf [pouvant être mis à jour depuis : 0.1]
+mariadb-common/stable 1:10.3.27-0+deb10u1 all [pouvant être mis à jour depuis : 1:10.3.25-0+deb10u1]
+openjdk-11-jdk-headless/stable 11.0.9.1+1-1~deb10u2 armhf [pouvant être mis à jour depuis : 11.0.9+11-1~deb10u1]
+openjdk-11-jdk/stable 11.0.9.1+1-1~deb10u2 armhf [pouvant être mis à jour depuis : 11.0.9+11-1~deb10u1]
+openjdk-11-jre-headless/stable 11.0.9.1+1-1~deb10u2 armhf [pouvant être mis à jour depuis : 11.0.9+11-1~deb10u1]
+openjdk-11-jre/stable 11.0.9.1+1-1~deb10u2 armhf [pouvant être mis à jour depuis : 11.0.9+11-1~deb10u1]
+pishutdown/testing 0.15 armhf [pouvant être mis à jour depuis : 0.14]
+piwiz/testing 0.20 armhf [pouvant être mis à jour depuis : 0.19]
+pprompt/testing 0.18 all [pouvant être mis à jour depuis : 0.17]
+pulseaudio-utils/testing 12.2-4+deb10u1+rpi2 armhf [pouvant être mis à jour depuis : 12.2-4+deb10u1+rpi1]
+pulseaudio/testing 12.2-4+deb10u1+rpi2 armhf [pouvant être mis à jour depuis : 12.2-4+deb10u1+rpi1]
+rc-gui/testing 1.45 armhf [pouvant être mis à jour depuis : 1.44]
+rpi-chromium-mods/testing 20201207 armhf [pouvant être mis à jour depuis : 20201113]
+ruby2.5/stable 2.5.5-3+deb10u3 armhf [pouvant être mis à jour depuis : 2.5.5-3+deb10u2]
+xserver-common/testing 2:1.20.4-1+rpt2+deb10u2 all [pouvant être mis à jour depuis : 2:1.20.4-1+rpt2+deb10u1]
+xserver-xorg-core/testing 2:1.20.4-1+rpt2+deb10u2 armhf [pouvant être mis à jour depuis : 2:1.20.4-1+rpt2+deb10u1]
+============================================================================
+mardi 8 décembre 2020, 12:37:02 (UTC+0100)
+En train de lister...
+============================================================================
+mercredi 9 décembre 2020, 17:16:13 (UTC+0100)
+En train de lister...
+libssl-dev/testing 1.1.1d-0+deb10u4+rpt1 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u3+rpt1]
+libssl1.1/testing 1.1.1d-0+deb10u4+rpt1 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u3+rpt1]
+openssl/testing 1.1.1d-0+deb10u4+rpt1 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u3+rpt1]
+============================================================================
+jeudi 10 décembre 2020, 22:09:12 (UTC+0100)
+En train de lister...
+apt-utils/stable 1.8.2.2 armhf [pouvant être mis à jour depuis : 1.8.2.1]
+apt/stable 1.8.2.2 armhf [pouvant être mis à jour depuis : 1.8.2.1]
+libapt-inst2.0/stable 1.8.2.2 armhf [pouvant être mis à jour depuis : 1.8.2.1]
+libapt-pkg5.0/stable 1.8.2.2 armhf [pouvant être mis à jour depuis : 1.8.2.1]
+lxplug-ptbatt/testing 0.14 armhf [pouvant être mis à jour depuis : 0.13]
+piwiz/testing 0.21 armhf [pouvant être mis à jour depuis : 0.20]
+python-apt-common/stable 1.8.4.2 all [pouvant être mis à jour depuis : 1.8.4.1]
+python3-apt/stable 1.8.4.2 armhf [pouvant être mis à jour depuis : 1.8.4.1]
+============================================================================
+vendredi 11 décembre 2020, 17:04:28 (UTC+0100)
+En train de lister...
+base-files/stable 10.3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 10.3+rpi1+deb10u6]
+libpam-systemd/stable 241-7~deb10u5+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u4+rpi1]
+libsystemd0/stable 241-7~deb10u5+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u4+rpi1]
+libudev1/stable 241-7~deb10u5+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u4+rpi1]
+rpi-eeprom/testing 10.4-1 armhf [pouvant être mis à jour depuis : 10.3-1]
+systemd-sysv/stable 241-7~deb10u5+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u4+rpi1]
+systemd/stable 241-7~deb10u5+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u4+rpi1]
+udev/stable 241-7~deb10u5+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u4+rpi1]
+============================================================================
+samedi 12 décembre 2020, 16:00:29 (UTC+0100)
+En train de lister...
+raspberrypi-ui-mods/testing 1.20201210 all [pouvant être mis à jour depuis : 1.20201126]
+============================================================================
+dimanche 13 décembre 2020, 00:55:56 (UTC+0100)
+En train de lister...
+============================================================================
+dimanche 13 décembre 2020, 23:57:14 (UTC+0100)
+En train de lister...
+============================================================================
+mardi 15 décembre 2020, 00:20:22 (UTC+0100)
+En train de lister...
+agnostics/testing 0.6 armhf [pouvant être mis à jour depuis : 0.5]
+chromium-browser-l10n/testing 86.0.4240.197-rpt1 all [pouvant être mis à jour depuis : 84.0.4147.105-rpt3]
+chromium-browser/testing 86.0.4240.197-rpt1 armhf [pouvant être mis à jour depuis : 84.0.4147.105-rpt3]
+chromium-codecs-ffmpeg-extra/testing 86.0.4240.197-rpt1 armhf [pouvant être mis à jour depuis : 84.0.4147.105-rpt3]
+pi-package-data/testing 0.8 all [pouvant être mis à jour depuis : 0.7]
+pi-package-session/testing 0.8 armhf [pouvant être mis à jour depuis : 0.7]
+pi-package/testing 0.8 armhf [pouvant être mis à jour depuis : 0.7]
+python3-lxml/stable 4.3.2-1+deb10u1 armhf [pouvant être mis à jour depuis : 4.3.2-1]
+rpi-chromium-mods/testing 20201213 armhf [pouvant être mis à jour depuis : 20201207]
+============================================================================
+mardi 15 décembre 2020, 18:33:00 (UTC+0100)
+En train de lister...
+lxplug-magnifier/testing 0.4 armhf [pouvant être mis à jour depuis : 0.3]
+rpi-eeprom/testing 11.0-1 armhf [pouvant être mis à jour depuis : 10.4-1]
+============================================================================
+vendredi 18 décembre 2020, 00:05:41 (UTC+0100)
+En train de lister...
+============================================================================
+vendredi 18 décembre 2020, 16:18:56 (UTC+0100)
+En train de lister...
+============================================================================
+samedi 19 décembre 2020, 16:36:55 (UTC+0100)
+En train de lister...
+============================================================================
+dimanche 20 décembre 2020, 23:32:41 (UTC+0100)
+En train de lister...
+python3-lxml/stable 4.3.2-1+deb10u2 armhf [pouvant être mis à jour depuis : 4.3.2-1+deb10u1]
+============================================================================
+lundi 21 décembre 2020, 23:38:47 (UTC+0100)
+En train de lister...
+============================================================================
+mercredi 23 décembre 2020, 00:53:23 (UTC+0100)
+En train de lister...
+============================================================================
+jeudi 24 décembre 2020, 00:08:50 (UTC+0100)
+En train de lister...
+libjavascriptcoregtk-4.0-18/stable 2.30.4-1~deb10u1+rpi1 armhf [pouvant être mis à jour depuis : 2.30.3-1~deb10u1+rpi1]
+libwebkit2gtk-4.0-37/stable 2.30.4-1~deb10u1+rpi1 armhf [pouvant être mis à jour depuis : 2.30.3-1~deb10u1+rpi1]
+============================================================================
+vendredi 25 décembre 2020, 00:23:36 (UTC+0100)
+En train de lister...
+tzdata/stable 2020e-0+deb10u1 all [pouvant être mis à jour depuis : 2020d-0+deb10u1]
+============================================================================
+lundi 28 décembre 2020, 22:09:46 (UTC+0100)
+En train de lister…
+python-apt-common/stable 1.8.4.3 all [pouvant être mis à jour depuis : 1.8.4.2]
+python3-apt/stable 1.8.4.3 armhf [pouvant être mis à jour depuis : 1.8.4.2]
+============================================================================
+samedi 2 janvier 2021, 01:07:22 (UTC+0100)
+En train de lister…
+libp11-kit0/stable 0.23.15-2+deb10u1 armhf [pouvant être mis à jour depuis : 0.23.15-2]
+============================================================================
+mardi 5 janvier 2021, 00:35:57 (UTC+0100)
+En train de lister…
+libfm-data/testing 1.3.1-1+rpt18 all [pouvant être mis à jour depuis : 1.3.1-1+rpt17]
+libfm-extra4/testing 1.3.1-1+rpt18 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt17]
+libfm-gtk-data/testing 1.3.1-1+rpt18 all [pouvant être mis à jour depuis : 1.3.1-1+rpt17]
+libfm-gtk4/testing 1.3.1-1+rpt18 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt17]
+libfm-modules/testing 1.3.1-1+rpt18 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt17]
+libfm4/testing 1.3.1-1+rpt18 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt17]
+libobrender32v5/testing 3.6.1-8+rpt5 armhf [pouvant être mis à jour depuis : 3.6.1-8+rpt4]
+libobt2v5/testing 3.6.1-8+rpt5 armhf [pouvant être mis à jour depuis : 3.6.1-8+rpt4]
+lxpanel-data/testing 0.10.0-2+rpt14 all [pouvant être mis à jour depuis : 0.10.0-2+rpt13]
+lxpanel/testing 0.10.0-2+rpt14 armhf [pouvant être mis à jour depuis : 0.10.0-2+rpt13]
+lxplug-ejecter/testing 0.13 armhf [pouvant être mis à jour depuis : 0.12]
+lxplug-magnifier/testing 0.5 armhf [pouvant être mis à jour depuis : 0.4]
+lxplug-network/testing 0.23 armhf [pouvant être mis à jour depuis : 0.22]
+lxplug-volumepulse/testing 0.3 armhf [pouvant être mis à jour depuis : 0.2]
+lxterminal/testing 0.3.2-1+rpt4 armhf [pouvant être mis à jour depuis : 0.3.2-1+rpt3]
+obconf/testing 1:2.0.4+git20150213-2+rpt4 armhf [pouvant être mis à jour depuis : 1:2.0.4+git20150213-2+rpt3]
+openbox/testing 3.6.1-8+rpt5 armhf [pouvant être mis à jour depuis : 3.6.1-8+rpt4]
+pcmanfm/testing 1.3.1-1+rpt25 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt24]
+pi-greeter/testing 0.13 armhf [pouvant être mis à jour depuis : 0.12]
+pi-printer-support/testing 1.1 all [pouvant être mis à jour depuis : 1.0]
+piclone/testing 0.17 armhf [pouvant être mis à jour depuis : 0.16]
+pipanel/testing 1:1.9 armhf [pouvant être mis à jour depuis : 1:1.7]
+rp-bookshelf/testing 0.7 armhf [pouvant être mis à jour depuis : 0.6]
+rp-prefapps/testing 0.30 armhf [pouvant être mis à jour depuis : 0.27]
+============================================================================
+jeudi 7 janvier 2021, 01:09:45 (UTC+0100)
+En train de lister…
+libegl-mesa0/testing 19.3.2-1~bpo10+1~rpt3 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt2]
+libgbm1/testing 19.3.2-1~bpo10+1~rpt3 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt2]
+libgl1-mesa-dri/testing 19.3.2-1~bpo10+1~rpt3 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt2]
+libglapi-mesa/testing 19.3.2-1~bpo10+1~rpt3 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt2]
+libgles2-mesa/testing 19.3.2-1~bpo10+1~rpt3 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt2]
+libglx-mesa0/testing 19.3.2-1~bpo10+1~rpt3 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt2]
+mesa-va-drivers/testing 19.3.2-1~bpo10+1~rpt3 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt2]
+mesa-vdpau-drivers/testing 19.3.2-1~bpo10+1~rpt3 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt2]
+python-rpi.gpio/testing 0.7.0-0.1~bpo10+2 armhf [pouvant être mis à jour depuis : 0.7.0-0.1~bpo10+1]
+python3-rpi.gpio/testing 0.7.0-0.1~bpo10+2 armhf [pouvant être mis à jour depuis : 0.7.0-0.1~bpo10+1]
+rpi.gpio-common/testing 0.7.0-0.1~bpo10+2 armhf [pouvant être mis à jour depuis : 0.7.0-0.1~bpo10+1]
+============================================================================
+vendredi 8 janvier 2021, 01:01:20 (UTC+0100)
+En train de lister…
+gir1.2-polkit-1.0/testing 0.105-25+rpt1 armhf [pouvant être mis à jour depuis : 0.105-25]
+libnode-dev/stable 10.23.1~dfsg-1~deb10u1 armhf [pouvant être mis à jour depuis : 10.21.0~dfsg-1~deb10u1+rpi1]
+libnode64/stable 10.23.1~dfsg-1~deb10u1 armhf [pouvant être mis à jour depuis : 10.21.0~dfsg-1~deb10u1+rpi1]
+libpolkit-agent-1-0/testing 0.105-25+rpt1 armhf [pouvant être mis à jour depuis : 0.105-25]
+libpolkit-backend-1-0/testing 0.105-25+rpt1 armhf [pouvant être mis à jour depuis : 0.105-25]
+libpolkit-gobject-1-0/testing 0.105-25+rpt1 armhf [pouvant être mis à jour depuis : 0.105-25]
+libpulse0/testing 12.2-4+deb10u1+rpi3 armhf [pouvant être mis à jour depuis : 12.2-4+deb10u1+rpi2]
+libpulsedsp/testing 12.2-4+deb10u1+rpi3 armhf [pouvant être mis à jour depuis : 12.2-4+deb10u1+rpi2]
+libraspberrypi-bin/testing 1.20210104-1 armhf [pouvant être mis à jour depuis : 1.20201201-1]
+libraspberrypi-dev/testing 1.20210104-1 armhf [pouvant être mis à jour depuis : 1.20201201-1]
+libraspberrypi-doc/testing 1.20210104-1 armhf [pouvant être mis à jour depuis : 1.20201201-1]
+libraspberrypi0/testing 1.20210104-1 armhf [pouvant être mis à jour depuis : 1.20201201-1]
+nodejs-doc/stable 10.23.1~dfsg-1~deb10u1 all [pouvant être mis à jour depuis : 10.21.0~dfsg-1~deb10u1+rpi1]
+nodejs/stable 10.23.1~dfsg-1~deb10u1 armhf [pouvant être mis à jour depuis : 10.21.0~dfsg-1~deb10u1+rpi1]
+piwiz/testing 0.22 armhf [pouvant être mis à jour depuis : 0.21]
+policykit-1/testing 0.105-25+rpt1 armhf [pouvant être mis à jour depuis : 0.105-25]
+pulseaudio-utils/testing 12.2-4+deb10u1+rpi3 armhf [pouvant être mis à jour depuis : 12.2-4+deb10u1+rpi2]
+pulseaudio/testing 12.2-4+deb10u1+rpi3 armhf [pouvant être mis à jour depuis : 12.2-4+deb10u1+rpi2]
+raspberrypi-bootloader/testing 1.20210104-1 armhf [pouvant être mis à jour depuis : 1.20201201-1]
+raspberrypi-kernel/testing 1.20210104-1 armhf [pouvant être mis à jour depuis : 1.20201201-1]
+raspberrypi-ui-mods/testing 1.20201210+nmu1 armhf [pouvant être mis à jour depuis : 1.20201210]
+rpd-plym-splash/testing 0.26 armhf [pouvant être mis à jour depuis : 0.25]
+rpi-chromium-mods/testing 20201231 armhf [pouvant être mis à jour depuis : 20201213]
+rpi-eeprom/testing 11.1-1 armhf [pouvant être mis à jour depuis : 11.0-1]
+scratch2/testing 0.26 armhf [pouvant être mis à jour depuis : 0.25]
+============================================================================
+samedi 9 janvier 2021, 13:45:04 (UTC+0100)
+En train de lister…
+libraspberrypi-bin/testing 1.20210108-1 armhf [pouvant être mis à jour depuis : 1.20210104-1]
+libraspberrypi-dev/testing 1.20210108-1 armhf [pouvant être mis à jour depuis : 1.20210104-1]
+libraspberrypi-doc/testing 1.20210108-1 armhf [pouvant être mis à jour depuis : 1.20210104-1]
+libraspberrypi0/testing 1.20210108-1 armhf [pouvant être mis à jour depuis : 1.20210104-1]
+lxplug-ejecter/testing 0.14 armhf [pouvant être mis à jour depuis : 0.13]
+raspberrypi-bootloader/testing 1.20210108-1 armhf [pouvant être mis à jour depuis : 1.20210104-1]
+raspberrypi-kernel/testing 1.20210108-1 armhf [pouvant être mis à jour depuis : 1.20210104-1]
+============================================================================
+mardi 12 janvier 2021, 15:00:46 (UTC+0100)
+En train de lister…
+python-rpi.gpio/testing 0.7.0-0.1~bpo10+4 armhf [pouvant être mis à jour depuis : 0.7.0-0.1~bpo10+2]
+python3-rpi.gpio/testing 0.7.0-0.1~bpo10+4 armhf [pouvant être mis à jour depuis : 0.7.0-0.1~bpo10+2]
+rpi.gpio-common/testing 0.7.0-0.1~bpo10+4 armhf [pouvant être mis à jour depuis : 0.7.0-0.1~bpo10+2]
+============================================================================
+mercredi 13 janvier 2021, 00:00:08 (UTC+0100)
+En train de lister…
+rpi-eeprom/testing 11.3-1 armhf [pouvant être mis à jour depuis : 11.1-1]
+============================================================================
+vendredi 15 janvier 2021, 00:38:29 (UTC+0100)
+En train de lister…
+lxplug-bluetooth/testing 0.19 armhf [pouvant être mis à jour depuis : 0.18]
+rpi-eeprom/testing 11.4-1 armhf [pouvant être mis à jour depuis : 11.3-1]
+thonny/testing 3.3.2-1+rpt1 all [pouvant être mis à jour depuis : 3.3.0-1+rpt1]
+============================================================================
+dimanche 17 janvier 2021, 00:53:38 (UTC+0100)
+En train de lister…
+rpi-eeprom/testing 11.5-1 armhf [pouvant être mis à jour depuis : 11.4-1]
+============================================================================
+mercredi 20 janvier 2021, 00:59:18 (UTC+0100)
+En train de lister…
+raspi-config/testing 20210119 all [pouvant être mis à jour depuis : 20201108]
+rc-gui/testing 1.46 armhf [pouvant être mis à jour depuis : 1.45]
+rpi-chromium-mods/testing 20210118 armhf [pouvant être mis à jour depuis : 20201231]
+============================================================================
+jeudi 21 janvier 2021, 00:03:18 (UTC+0100)
+En train de lister…
+gstreamer1.0-plugins-bad/stable 1.14.4-1+rvtdeb10u1 armhf [pouvant être mis à jour depuis : 1.14.4-1+b1]
+libgstreamer-plugins-bad1.0-0/stable 1.14.4-1+rvtdeb10u1 armhf [pouvant être mis à jour depuis : 1.14.4-1+b1]
+============================================================================
+jeudi 21 janvier 2021, 12:30:54 (UTC+0100)
+En train de lister…
+thonny/testing 3.3.3-1+rpt1 all [pouvant être mis à jour depuis : 3.3.2-1+rpt1]
+============================================================================
+samedi 23 janvier 2021, 23:58:00 (UTC+0100)
+En train de lister…
+libvlc-bin/testing 3.0.12-0+deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+libvlc5/testing 3.0.12-0+deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+libvlccore9/testing 3.0.12-0+deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+vlc-bin/testing 3.0.12-0+deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+vlc-data/testing 3.0.12-0+deb10u1+rpt1 all [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+vlc-l10n/testing 3.0.12-0+deb10u1+rpt1 all [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+vlc-plugin-base/testing 3.0.12-0+deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+vlc-plugin-notify/testing 3.0.12-0+deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+vlc-plugin-qt/testing 3.0.12-0+deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+vlc-plugin-samba/testing 3.0.12-0+deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+vlc-plugin-skins2/testing 3.0.12-0+deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+vlc-plugin-video-output/testing 3.0.12-0+deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+vlc-plugin-video-splitter/testing 3.0.12-0+deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+vlc-plugin-visualization/testing 3.0.12-0+deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+vlc/testing 3.0.12-0+deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1]
+============================================================================
+lundi 25 janvier 2021, 12:57:48 (UTC+0100)
+En train de lister…
+firmware-atheros/testing 1:20190114-1+rpt11 all [pouvant être mis à jour depuis : 1:20190114-1+rpt10]
+firmware-brcm80211/testing 1:20190114-1+rpt11 all [pouvant être mis à jour depuis : 1:20190114-1+rpt10]
+firmware-libertas/testing 1:20190114-1+rpt11 all [pouvant être mis à jour depuis : 1:20190114-1+rpt10]
+firmware-misc-nonfree/testing 1:20190114-1+rpt11 all [pouvant être mis à jour depuis : 1:20190114-1+rpt10]
+firmware-realtek/testing 1:20190114-1+rpt11 all [pouvant être mis à jour depuis : 1:20190114-1+rpt10]
+gstreamer1.0-plugins-bad/stable 1.14.4-1+rvt+deb10u1 armhf [pouvant être mis à jour depuis : 1.14.4-1+rvtdeb10u1]
+libgstreamer-plugins-bad1.0-0/stable 1.14.4-1+rvt+deb10u1 armhf [pouvant être mis à jour depuis : 1.14.4-1+rvtdeb10u1]
+============================================================================
+jeudi 28 janvier 2021, 19:13:01 (UTC+0100)
+En train de lister…
+bluez-firmware/testing 1.2-4+rpt8 all [pouvant être mis à jour depuis : 1.2-4+rpt7]
+raspberrypi-sys-mods/testing 20210125 armhf [pouvant être mis à jour depuis : 20201026]
+rpi-eeprom/testing 11.6-1 armhf [pouvant être mis à jour depuis : 11.5-1]
+sudo/stable 1.8.27-1+deb10u3 armhf [pouvant être mis à jour depuis : 1.8.27-1+deb10u2]
+============================================================================
+vendredi 29 janvier 2021, 22:48:42 (UTC+0100)
+En train de lister…
+xserver-common/testing 2:1.20.4-1+rpt2+deb10u3 all [pouvant être mis à jour depuis : 2:1.20.4-1+rpt2+deb10u2]
+xserver-xorg-core/testing 2:1.20.4-1+rpt2+deb10u3 armhf [pouvant être mis à jour depuis : 2:1.20.4-1+rpt2+deb10u2]
+============================================================================
+samedi 30 janvier 2021, 23:46:16 (UTC+0100)
+En train de lister…
+ca-certificates/stable 20200601~deb10u2 all [pouvant être mis à jour depuis : 20200601~deb10u1]
+tzdata/stable 2021a-0+deb10u1 all [pouvant être mis à jour depuis : 2020e-0+deb10u1]
+============================================================================
+vendredi 5 février 2021, 11:29:10 (UTC+0100)
+En train de lister…
+libldap-2.4-2/stable 2.4.47+dfsg-3+rpi1+deb10u5 armhf [pouvant être mis à jour depuis : 2.4.47+dfsg-3+rpi1+deb10u4]
+libldap-common/stable 2.4.47+dfsg-3+rpi1+deb10u5 all [pouvant être mis à jour depuis : 2.4.47+dfsg-3+rpi1+deb10u4]
+libraspberrypi-bin/testing 1.20210201-1 armhf [pouvant être mis à jour depuis : 1.20210108-1]
+libraspberrypi-dev/testing 1.20210201-1 armhf [pouvant être mis à jour depuis : 1.20210108-1]
+libraspberrypi-doc/testing 1.20210201-1 armhf [pouvant être mis à jour depuis : 1.20210108-1]
+libraspberrypi0/testing 1.20210201-1 armhf [pouvant être mis à jour depuis : 1.20210108-1]
+lxplug-volumepulse/testing 0.4 armhf [pouvant être mis à jour depuis : 0.3]
+raspberrypi-bootloader/testing 1.20210201-1 armhf [pouvant être mis à jour depuis : 1.20210108-1]
+raspberrypi-kernel/testing 1.20210201-1 armhf [pouvant être mis à jour depuis : 1.20210108-1]
+============================================================================
+lundi 8 février 2021, 11:10:27 (UTC+0100)
+En train de lister…
+base-files/stable 10.3+rpi1+deb10u8 armhf [pouvant être mis à jour depuis : 10.3+rpi1+deb10u7]
+device-tree-compiler/stable 1.4.7-4 armhf [pouvant être mis à jour depuis : 1.4.7-3+rpt1]
+file/stable 1:5.35-4+deb10u2 armhf [pouvant être mis à jour depuis : 1:5.35-4+deb10u1]
+iproute2/stable 4.20.0-2+deb10u1 armhf [pouvant être mis à jour depuis : 4.20.0-2]
+libdbi-perl/stable 1.642-1+deb10u2 armhf [pouvant être mis à jour depuis : 1.642-1+deb10u1]
+libgnutls30/stable 3.6.7-4+deb10u6 armhf [pouvant être mis à jour depuis : 3.6.7-4+deb10u5]
+libmagic-mgc/stable 1:5.35-4+deb10u2 armhf [pouvant être mis à jour depuis : 1:5.35-4+deb10u1]
+libmagic1/stable 1:5.35-4+deb10u2 armhf [pouvant être mis à jour depuis : 1:5.35-4+deb10u1]
+libmaxminddb0/stable 1.3.2-1+deb10u1 armhf [pouvant être mis à jour depuis : 1.3.2-1]
+libpam-systemd/stable 241-7~deb10u6+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u5+rpi1]
+libpq5/stable 11.10-0+deb10u1 armhf [pouvant être mis à jour depuis : 11.9-0+deb10u1]
+libsnmp-base/stable 5.7.3+dfsg-5+deb10u2 all [pouvant être mis à jour depuis : 5.7.3+dfsg-5+deb10u1]
+libsnmp30/stable 5.7.3+dfsg-5+deb10u2 armhf [pouvant être mis à jour depuis : 5.7.3+dfsg-5+deb10u1]
+libsystemd0/stable 241-7~deb10u6+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u5+rpi1]
+libudev1/stable 241-7~deb10u6+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u5+rpi1]
+libwireshark-data/stable 2.6.20-0+deb10u1 all [pouvant être mis à jour depuis : 2.6.8-1.1]
+libwireshark11/stable 2.6.20-0+deb10u1 armhf [pouvant être mis à jour depuis : 2.6.8-1.1]
+libwiretap8/stable 2.6.20-0+deb10u1 armhf [pouvant être mis à jour depuis : 2.6.8-1.1]
+libwscodecs2/stable 2.6.20-0+deb10u1 armhf [pouvant être mis à jour depuis : 2.6.8-1.1]
+libwsutil9/stable 2.6.20-0+deb10u1 armhf [pouvant être mis à jour depuis : 2.6.8-1.1]
+node-ini/stable 1.3.5-1+deb10u1 all [pouvant être mis à jour depuis : 1.3.5-1]
+node-y18n/stable 3.2.1-2+deb10u1 all [pouvant être mis à jour depuis : 3.2.1-2]
+systemd-sysv/stable 241-7~deb10u6+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u5+rpi1]
+systemd/stable 241-7~deb10u6+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u5+rpi1]
+udev/stable 241-7~deb10u6+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u5+rpi1]
+unzip/stable 6.0-23+deb10u2 armhf [pouvant être mis à jour depuis : 6.0-23+deb10u1]
+wireshark-common/stable 2.6.20-0+deb10u1 armhf [pouvant être mis à jour depuis : 2.6.8-1.1]
+wireshark-qt/stable 2.6.20-0+deb10u1 armhf [pouvant être mis à jour depuis : 2.6.8-1.1]
+wireshark/stable 2.6.20-0+deb10u1 armhf [pouvant être mis à jour depuis : 2.6.8-1.1]
+============================================================================
+mardi 9 février 2021, 10:59:12 (UTC+0100)
+En train de lister…
+raspberrypi-sys-mods/testing 20210208 armhf [pouvant être mis à jour depuis : 20210125]
+============================================================================
+mercredi 10 février 2021, 11:05:54 (UTC+0100)
+En train de lister…
+nodered/testing 1.2.9-1 armhf [pouvant être mis à jour depuis : 1.0.6-1]
+============================================================================
+jeudi 11 février 2021, 09:50:16 (UTC+0100)
+En train de lister…
+pcmanfm/testing 1.3.1-1+rpt26 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt25]
+============================================================================
+vendredi 12 février 2021, 12:28:33 (UTC+0100)
+En train de lister…
+libzstd1/stable 1.3.8+dfsg-3+rpi1+deb10u1 armhf [pouvant être mis à jour depuis : 1.3.8+dfsg-3+rpi1]
+pcmanfm/testing 1.3.1-1+rpt26 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt25]
+============================================================================
+vendredi 12 février 2021, 22:51:20 (UTC+0100)
+En train de lister…
+libblockdev-fs2/stable 2.20-7+deb10u1+b1 armhf [pouvant être mis à jour depuis : 2.20-7+deb10u1]
+libblockdev-loop2/stable 2.20-7+deb10u1+b1 armhf [pouvant être mis à jour depuis : 2.20-7+deb10u1]
+libblockdev-part-err2/stable 2.20-7+deb10u1+b1 armhf [pouvant être mis à jour depuis : 2.20-7+deb10u1]
+libblockdev-part2/stable 2.20-7+deb10u1+b1 armhf [pouvant être mis à jour depuis : 2.20-7+deb10u1]
+libblockdev-swap2/stable 2.20-7+deb10u1+b1 armhf [pouvant être mis à jour depuis : 2.20-7+deb10u1]
+libblockdev-utils2/stable 2.20-7+deb10u1+b1 armhf [pouvant être mis à jour depuis : 2.20-7+deb10u1]
+libblockdev2/stable 2.20-7+deb10u1+b1 armhf [pouvant être mis à jour depuis : 2.20-7+deb10u1]
+raspi-config/testing 20210212 all [pouvant être mis à jour depuis : 20210119]
+rpi-chromium-mods/testing 20210212 armhf [pouvant être mis à jour depuis : 20210118]
+============================================================================
+mercredi 17 février 2021, 01:36:19 (UTC+0100)
+En train de lister…
+rpi-eeprom/testing 11.7-1 armhf [pouvant être mis à jour depuis : 11.6-1]
+============================================================================
+jeudi 18 février 2021, 11:50:41 (UTC+0100)
+En train de lister…
+libapache2-mod-php7.3/stable 7.3.27-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+libssl-dev/stable 1.1.1d-0+deb10u5 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u4+rpt1]
+libssl1.1/stable 1.1.1d-0+deb10u5 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u4+rpt1]
+openssl/stable 1.1.1d-0+deb10u5 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u4+rpt1]
+php7.3-bz2/stable 7.3.27-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+php7.3-cli/stable 7.3.27-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+php7.3-common/stable 7.3.27-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+php7.3-curl/stable 7.3.27-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+php7.3-gd/stable 7.3.27-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+php7.3-json/stable 7.3.27-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+php7.3-mbstring/stable 7.3.27-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+php7.3-mysql/stable 7.3.27-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+php7.3-opcache/stable 7.3.27-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+php7.3-readline/stable 7.3.27-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+php7.3-xml/stable 7.3.27-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+php7.3-zip/stable 7.3.27-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+php7.3/stable 7.3.27-1~deb10u1 all [pouvant être mis à jour depuis : 7.3.19-1~deb10u1]
+rpi-eeprom/testing 11.7-1 armhf [pouvant être mis à jour depuis : 11.6-1]
+============================================================================
+vendredi 19 février 2021, 15:00:07 (UTC+0100)
+En train de lister…
+bind9-host/stable 1:9.11.5.P4+dfsg-5.1+deb10u3 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u2]
+libbind9-161/stable 1:9.11.5.P4+dfsg-5.1+deb10u3 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u2]
+libdns-export1104/stable 1:9.11.5.P4+dfsg-5.1+deb10u3 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u2]
+libdns1104/stable 1:9.11.5.P4+dfsg-5.1+deb10u3 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u2]
+libisc-export1100/stable 1:9.11.5.P4+dfsg-5.1+deb10u3 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u2]
+libisc1100/stable 1:9.11.5.P4+dfsg-5.1+deb10u3 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u2]
+libisccc161/stable 1:9.11.5.P4+dfsg-5.1+deb10u3 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u2]
+libisccfg163/stable 1:9.11.5.P4+dfsg-5.1+deb10u3 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u2]
+liblwres161/stable 1:9.11.5.P4+dfsg-5.1+deb10u3 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u2]
+============================================================================
+samedi 20 février 2021, 00:15:29 (UTC+0100)
+En train de lister…
+libjavascriptcoregtk-4.0-18/stable 2.30.5-1~deb10u1+rpi1 armhf [pouvant être mis à jour depuis : 2.30.4-1~deb10u1+rpi1]
+libssl-dev/testing 1.1.1d-0+deb10u5+rpt1 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u5]
+libssl1.1/testing 1.1.1d-0+deb10u5+rpt1 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u5]
+libwebkit2gtk-4.0-37/stable 2.30.5-1~deb10u1+rpi1 armhf [pouvant être mis à jour depuis : 2.30.4-1~deb10u1+rpi1]
+openssl/testing 1.1.1d-0+deb10u5+rpt1 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u5]
+rp-prefapps/testing 0.32 armhf [pouvant être mis à jour depuis : 0.30]
+============================================================================
+mardi 23 février 2021, 10:59:36 (UTC+0100)
+En train de lister…
+rpi-eeprom/testing 11.8-1 armhf [pouvant être mis à jour depuis : 11.7-1]
+============================================================================
+vendredi 26 février 2021, 00:12:36 (UTC+0100)
+En train de lister…
+agnostics/testing 0.7 armhf [pouvant être mis à jour depuis : 0.6]
+libldap-2.4-2/stable 2.4.47+dfsg-3+rpi1+deb10u6 armhf [pouvant être mis à jour depuis : 2.4.47+dfsg-3+rpi1+deb10u5]
+libldap-common/stable 2.4.47+dfsg-3+rpi1+deb10u6 all [pouvant être mis à jour depuis : 2.4.47+dfsg-3+rpi1+deb10u5]
+libnode-dev/stable 10.24.0~dfsg-1~deb10u1 armhf [pouvant être mis à jour depuis : 10.23.1~dfsg-1~deb10u1]
+libnode64/stable 10.24.0~dfsg-1~deb10u1 armhf [pouvant être mis à jour depuis : 10.23.1~dfsg-1~deb10u1]
+libzstd1/stable 1.3.8+dfsg-3+rpi1+deb10u2 armhf [pouvant être mis à jour depuis : 1.3.8+dfsg-3+rpi1+deb10u1]
+nodejs-doc/stable 10.24.0~dfsg-1~deb10u1 all [pouvant être mis à jour depuis : 10.23.1~dfsg-1~deb10u1]
+nodejs/stable 10.24.0~dfsg-1~deb10u1 armhf [pouvant être mis à jour depuis : 10.23.1~dfsg-1~deb10u1]
+piclone/testing 0.18 armhf [pouvant être mis à jour depuis : 0.17]
+piwiz/testing 0.23 armhf [pouvant être mis à jour depuis : 0.22]
+pprompt/testing 0.19 all [pouvant être mis à jour depuis : 0.18]
+thonny/testing 3.3.5-1+rpt1 all [pouvant être mis à jour depuis : 3.3.3-1+rpt1]
+============================================================================
+vendredi 26 février 2021, 19:08:57 (UTC+0100)
+En train de lister…
+rpi-eeprom/testing 11.9-1 armhf [pouvant être mis à jour depuis : 11.8-1]
+============================================================================
+mercredi 3 mars 2021, 23:45:12 (UTC+0100)
+En train de lister…
+libraspberrypi-bin/testing 1.20210303-1 armhf [pouvant être mis à jour depuis : 1.20210201-1]
+libraspberrypi-dev/testing 1.20210303-1 armhf [pouvant être mis à jour depuis : 1.20210201-1]
+libraspberrypi-doc/testing 1.20210303-1 armhf [pouvant être mis à jour depuis : 1.20210201-1]
+libraspberrypi0/testing 1.20210303-1 armhf [pouvant être mis à jour depuis : 1.20210201-1]
+raspberrypi-bootloader/testing 1.20210303-1 armhf [pouvant être mis à jour depuis : 1.20210201-1]
+raspberrypi-kernel/testing 1.20210303-1 armhf [pouvant être mis à jour depuis : 1.20210201-1]
+============================================================================
+mardi 9 mars 2021, 23:45:14 (UTC+0100)
+En train de lister…
+lxplug-bluetooth/testing 0.20 armhf [pouvant être mis à jour depuis : 0.19]
+============================================================================
+mercredi 10 mars 2021, 22:46:53 (UTC+0100)
+En train de lister…
+raspberrypi-sys-mods/testing 20210310 armhf [pouvant être mis à jour depuis : 20210208]
+============================================================================
+jeudi 11 mars 2021, 22:07:14 (UTC+0100)
+En train de lister…
+chromium-browser-l10n/testing 88.0.4324.187-rpt1 all [pouvant être mis à jour depuis : 86.0.4240.197-rpt1]
+chromium-browser/testing 88.0.4324.187-rpt1 armhf [pouvant être mis à jour depuis : 86.0.4240.197-rpt1]
+chromium-codecs-ffmpeg-extra/testing 88.0.4324.187-rpt1 armhf [pouvant être mis à jour depuis : 86.0.4240.197-rpt1]
+thonny/testing 3.3.6-1+rpt1 all [pouvant être mis à jour depuis : 3.3.5-1+rpt1]
+============================================================================
+samedi 13 mars 2021, 11:21:52 (UTC+0100)
+En train de lister…
+libtiff5/stable 4.1.0+git191117-2~deb10u2 armhf [pouvant être mis à jour depuis : 4.1.0+git191117-2~deb10u1]
+python3-pygments/stable 2.3.1+dfsg-1+deb10u1 all [pouvant être mis à jour depuis : 2.3.1+dfsg-1]
+rpi-eeprom/testing 11.10-1 armhf [pouvant être mis à jour depuis : 11.9-1]
+============================================================================
+jeudi 18 mars 2021, 11:13:49 (UTC+0100)
+En train de lister…
+rpi-eeprom/testing 11.11-1 armhf [pouvant être mis à jour depuis : 11.10-1]
+============================================================================
+jeudi 18 mars 2021, 23:26:37 (UTC+0100)
+En train de lister…
+============================================================================
+vendredi 19 mars 2021, 23:50:13 (UTC+0100)
+En train de lister…
+alsa-utils/testing 1.1.8-2+rpt1 armhf [pouvant être mis à jour depuis : 1.1.8-2]
+libssl-dev/testing 1.1.1d-0+deb10u5+rpt2 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u5+rpt1]
+libssl1.1/testing 1.1.1d-0+deb10u5+rpt2 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u5+rpt1]
+lxpanel-data/testing 0.10.0-2+rpt15 all [pouvant être mis à jour depuis : 0.10.0-2+rpt14]
+lxpanel/testing 0.10.0-2+rpt15 armhf [pouvant être mis à jour depuis : 0.10.0-2+rpt14]
+lxplug-bluetooth/testing 0.21 armhf [pouvant être mis à jour depuis : 0.20]
+lxplug-ejecter/testing 0.15 armhf [pouvant être mis à jour depuis : 0.14]
+lxplug-magnifier/testing 0.6 armhf [pouvant être mis à jour depuis : 0.5]
+lxplug-network/testing 0.24 armhf [pouvant être mis à jour depuis : 0.23]
+openssh-client/testing 1:7.9p1-10+deb10u2+rpt1 armhf [pouvant être mis à jour depuis : 1:7.9p1-10+deb10u2]
+openssh-server/testing 1:7.9p1-10+deb10u2+rpt1 armhf [pouvant être mis à jour depuis : 1:7.9p1-10+deb10u2]
+openssh-sftp-server/testing 1:7.9p1-10+deb10u2+rpt1 armhf [pouvant être mis à jour depuis : 1:7.9p1-10+deb10u2]
+openssl/testing 1.1.1d-0+deb10u5+rpt2 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u5+rpt1]
+pcmanfm/testing 1.3.1-1+rpt27 armhf [pouvant être mis à jour depuis : 1.3.1-1+rpt26]
+pi-greeter/testing 0.14 armhf [pouvant être mis à jour depuis : 0.13]
+pipanel/testing 1:1.10 armhf [pouvant être mis à jour depuis : 1:1.9]
+rpi-eeprom/testing 11.12-1 armhf [pouvant être mis à jour depuis : 11.11-1]
+ssh/testing 1:7.9p1-10+deb10u2+rpt1 all [pouvant être mis à jour depuis : 1:7.9p1-10+deb10u2]
+============================================================================
+mercredi 24 mars 2021, 22:15:31 (UTC+0100)
+En train de lister…
+============================================================================
+vendredi 26 mars 2021, 12:51:52 (UTC+0100)
+En train de lister…
+libssl-dev/testing 1.1.1d-0+deb10u6+rpt1 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u5+rpt2]
+libssl1.1/testing 1.1.1d-0+deb10u6+rpt1 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u5+rpt2]
+openssl/testing 1.1.1d-0+deb10u6+rpt1 armhf [pouvant être mis à jour depuis : 1.1.1d-0+deb10u5+rpt2]
+============================================================================
+lundi 29 mars 2021, 23:03:26 (UTC+0200)
+En train de lister…
+libjs-jquery/stable 3.3.1~dfsg-3+deb10u1 all [pouvant être mis à jour depuis : 3.3.1~dfsg-3]
+python3-pygments/stable 2.3.1+dfsg-1+deb10u2 all [pouvant être mis à jour depuis : 2.3.1+dfsg-1+deb10u1]
+rpi-eeprom/testing 12.0-1 armhf [pouvant être mis à jour depuis : 11.12-1]
+============================================================================
+lundi 29 mars 2021, 23:13:34 (UTC+0200)
+En train de lister…
+============================================================================
+mardi 30 mars 2021, 23:14:14 (UTC+0200)
+En train de lister…
+avahi-daemon/stable 0.7-4+deb10u1 armhf [pouvant être mis à jour depuis : 0.7-4+b1]
+groff-base/stable 1.22.4-3+deb10u1 armhf [pouvant être mis à jour depuis : 1.22.4-3]
+iputils-ping/stable 3:20180629-2+deb10u2 armhf [pouvant être mis à jour depuis : 3:20180629-2+deb10u1]
+libavahi-client3/stable 0.7-4+deb10u1 armhf [pouvant être mis à jour depuis : 0.7-4+b1]
+libavahi-common-data/stable 0.7-4+deb10u1 armhf [pouvant être mis à jour depuis : 0.7-4+b1]
+libavahi-common3/stable 0.7-4+deb10u1 armhf [pouvant être mis à jour depuis : 0.7-4+b1]
+libavahi-core7/stable 0.7-4+deb10u1 armhf [pouvant être mis à jour depuis : 0.7-4+b1]
+libavahi-glib1/stable 0.7-4+deb10u1 armhf [pouvant être mis à jour depuis : 0.7-4+b1]
+libbsd0/stable 0.9.1-2+deb10u1 armhf [pouvant être mis à jour depuis : 0.9.1-2]
+liblirc-client0/stable 0.10.1-6.3~deb10u1 armhf [pouvant être mis à jour depuis : 0.10.1-6.2~deb10u1+rpt1]
+libportaudio2/stable 19.6.0-1+deb10u1 armhf [pouvant être mis à jour depuis : 19.6.0-1]
+libpq5/stable 11.11-0+deb10u1 armhf [pouvant être mis à jour depuis : 11.10-0+deb10u1]
+libpython3.7-dev/stable 3.7.3-2+deb10u3 armhf [pouvant être mis à jour depuis : 3.7.3-2+deb10u2]
+libpython3.7-minimal/stable 3.7.3-2+deb10u3 armhf [pouvant être mis à jour depuis : 3.7.3-2+deb10u2]
+libpython3.7-stdlib/stable 3.7.3-2+deb10u3 armhf [pouvant être mis à jour depuis : 3.7.3-2+deb10u2]
+libpython3.7/stable 3.7.3-2+deb10u3 armhf [pouvant être mis à jour depuis : 3.7.3-2+deb10u2]
+python3-lxml/stable 4.3.2-1+deb10u3 armhf [pouvant être mis à jour depuis : 4.3.2-1+deb10u2]
+python3.7-dev/stable 3.7.3-2+deb10u3 armhf [pouvant être mis à jour depuis : 3.7.3-2+deb10u2]
+python3.7-minimal/stable 3.7.3-2+deb10u3 armhf [pouvant être mis à jour depuis : 3.7.3-2+deb10u2]
+python3.7-venv/stable 3.7.3-2+deb10u3 armhf [pouvant être mis à jour depuis : 3.7.3-2+deb10u2]
+python3.7/stable 3.7.3-2+deb10u3 armhf [pouvant être mis à jour depuis : 3.7.3-2+deb10u2]
+============================================================================
+mercredi 31 mars 2021, 23:07:22 (UTC+0200)
+En train de lister…
+base-files/stable 10.3+rpi1+deb10u9 armhf [pouvant être mis à jour depuis : 10.3+rpi1+deb10u8]
+fonts-opensymbol/stable 2:102.10+LibO6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 2:102.10+LibO6.1.5-3+rpi1+deb10u6+rpt1]
+libjavascriptcoregtk-4.0-18/stable 2.30.6-1~deb10u1+rpi1 armhf [pouvant être mis à jour depuis : 2.30.5-1~deb10u1+rpi1]
+libreoffice-avmedia-backend-gstreamer/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-base-core/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-base-drivers/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-base/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-calc/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-common/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-core/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-draw/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-gtk3/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-help-common/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-help-en-gb/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-help-eu/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-impress/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-java-common/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-l10n-en-gb/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-l10n-eu/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-librelogo/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-math/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-nlpsolver/stable 0.9+LibO6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 0.9+LibO6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-report-builder-bin/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-report-builder/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-script-provider-bsh/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-script-provider-js/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-script-provider-python/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-sdbc-firebird/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-sdbc-hsqldb/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-sdbc-postgresql/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-style-colibre/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-style-tango/stable 1:6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-wiki-publisher/stable 1.2.0+LibO6.1.5-3+rpi1+deb10u7 all [pouvant être mis à jour depuis : 1.2.0+LibO6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice-writer/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libreoffice/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+libwebkit2gtk-4.0-37/stable 2.30.6-1~deb10u1+rpi1 armhf [pouvant être mis à jour depuis : 2.30.5-1~deb10u1+rpi1]
+python3-uno/stable 1:6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u6+rpt1]
+uno-libs3/stable 6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 6.1.5-3+rpi1+deb10u6+rpt1]
+ure/stable 6.1.5-3+rpi1+deb10u7 armhf [pouvant être mis à jour depuis : 6.1.5-3+rpi1+deb10u6+rpt1]
+============================================================================
+vendredi 2 avril 2021, 00:33:48 (UTC+0200)
+En train de lister…
+agnostics/testing 0.8 armhf [pouvant être mis à jour depuis : 0.7]
+curl/stable 7.64.0-4+deb10u2 armhf [pouvant être mis à jour depuis : 7.64.0-4+deb10u1]
+libcurl3-gnutls/stable 7.64.0-4+deb10u2 armhf [pouvant être mis à jour depuis : 7.64.0-4+deb10u1]
+libcurl4/stable 7.64.0-4+deb10u2 armhf [pouvant être mis à jour depuis : 7.64.0-4+deb10u1]
+libpigpio-dev/testing 1.79-1+rpt1 armhf [pouvant être mis à jour depuis : 1.71-0~rpt1]
+libpigpio1/testing 1.79-1+rpt1 armhf [pouvant être mis à jour depuis : 1.71-0~rpt1]
+libpigpiod-if-dev/testing 1.79-1+rpt1 armhf [pouvant être mis à jour depuis : 1.71-0~rpt1]
+libpigpiod-if1/testing 1.79-1+rpt1 armhf [pouvant être mis à jour depuis : 1.71-0~rpt1]
+libpigpiod-if2-1/testing 1.79-1+rpt1 armhf [pouvant être mis à jour depuis : 1.71-0~rpt1]
+piclone/testing 0.19 armhf [pouvant être mis à jour depuis : 0.18]
+pigpio-tools/testing 1.79-1+rpt1 armhf [pouvant être mis à jour depuis : 1.71-0~rpt1]
+pigpio/testing 1.79-1+rpt1 armhf [pouvant être mis à jour depuis : 1.71-0~rpt1]
+pigpiod/testing 1.79-1+rpt1 armhf [pouvant être mis à jour depuis : 1.71-0~rpt1]
+python-pigpio/testing 1.79-1+rpt1 all [pouvant être mis à jour depuis : 1.71-0~rpt1]
+python3-pigpio/testing 1.79-1+rpt1 all [pouvant être mis à jour depuis : 1.71-0~rpt1]
+rp-bookshelf/testing 0.9 armhf [pouvant être mis à jour depuis : 0.7]
+rp-prefapps/testing 0.33 armhf [pouvant être mis à jour depuis : 0.32]
+============================================================================
+vendredi 2 avril 2021, 10:12:57 (UTC+0200)
+En train de lister…
+libjs-underscore/stable 1.9.1~dfsg-1+deb10u1 all [pouvant être mis à jour depuis : 1.9.1~dfsg-1]
+libopenjp2-7/stable 2.3.0-2+deb10u2 armhf [pouvant être mis à jour depuis : 2.3.0-2+deb10u1]
+============================================================================
+vendredi 2 avril 2021, 23:45:58 (UTC+0200)
+En train de lister…
+libldb1/stable 2:1.5.1+really1.4.6-3+deb10u1 armhf [pouvant être mis à jour depuis : 2:1.5.1+really1.4.6-3]
+============================================================================
+dimanche 4 avril 2021, 23:56:34 (UTC+0200)
+En train de lister…
+============================================================================
+mercredi 7 avril 2021, 23:18:10 (UTC+0200)
+En train de lister…
+fonts-opensymbol/testing 2:102.10+LibO6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 2:102.10+LibO6.1.5-3+rpi1+deb10u7]
+libreoffice-avmedia-backend-gstreamer/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-base-core/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-base-drivers/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-base/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-calc/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-common/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-core/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-draw/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-gtk3/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-help-common/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-help-en-gb/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-help-eu/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-impress/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-java-common/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-l10n-en-gb/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-l10n-eu/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-librelogo/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-math/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-nlpsolver/testing 0.9+LibO6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 0.9+LibO6.1.5-3+rpi1+deb10u7]
+libreoffice-report-builder-bin/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-report-builder/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-script-provider-bsh/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-script-provider-js/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-script-provider-python/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-sdbc-firebird/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-sdbc-hsqldb/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-sdbc-postgresql/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-style-colibre/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-style-tango/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice-wiki-publisher/testing 1.2.0+LibO6.1.5-3+rpi1+deb10u7+rpt1 all [pouvant être mis à jour depuis : 1.2.0+LibO6.1.5-3+rpi1+deb10u7]
+libreoffice-writer/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+libreoffice/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+python3-uno/testing 1:6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 1:6.1.5-3+rpi1+deb10u7]
+uno-libs3/testing 6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 6.1.5-3+rpi1+deb10u7]
+ure/testing 6.1.5-3+rpi1+deb10u7+rpt1 armhf [pouvant être mis à jour depuis : 6.1.5-3+rpi1+deb10u7]
+============================================================================
+jeudi 8 avril 2021, 22:44:53 (UTC+0200)
+En train de lister…
+libpam-systemd/stable 241-7~deb10u7+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u6+rpi1]
+libsystemd0/stable 241-7~deb10u7+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u6+rpi1]
+libudev1/stable 241-7~deb10u7+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u6+rpi1]
+systemd-sysv/stable 241-7~deb10u7+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u6+rpi1]
+systemd/stable 241-7~deb10u7+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u6+rpi1]
+udev/stable 241-7~deb10u7+rpi1 armhf [pouvant être mis à jour depuis : 241-7~deb10u6+rpi1]
+============================================================================
+dimanche 11 avril 2021, 21:14:02 (UTC+0200)
+En train de lister…
+============================================================================
+lundi 12 avril 2021, 15:05:23 (UTC+0200)
+En train de lister…
+ruby-kramdown/stable 1.17.0-1+deb10u2 all [pouvant être mis à jour depuis : 1.17.0-1+deb10u1]
+============================================================================
+jeudi 15 avril 2021, 22:38:48 (UTC+0200)
+En train de lister…
+agnostics/testing 0.9 armhf [pouvant être mis à jour depuis : 0.8]
+rpi-eeprom/testing 12.1-1 armhf [pouvant être mis à jour depuis : 12.0-1]
+============================================================================
+mardi 20 avril 2021, 23:52:22 (UTC+0200)
+En train de lister…
+xserver-common/testing 2:1.20.4-1+rpt3+deb10u3 all [pouvant être mis à jour depuis : 2:1.20.4-1+rpt2+deb10u3]
+xserver-xorg-core/testing 2:1.20.4-1+rpt3+deb10u3 armhf [pouvant être mis à jour depuis : 2:1.20.4-1+rpt2+deb10u3]
+============================================================================
+mercredi 21 avril 2021, 14:53:28 (UTC+0200)
+En train de lister…
+php-pear/stable 1:1.10.6+submodules+notgz-1.1+deb10u2 all [pouvant être mis à jour depuis : 1:1.10.6+submodules+notgz-1.1+deb10u1]
+============================================================================
+vendredi 23 avril 2021, 12:30:34 (UTC+0200)
+En train de lister…
+apt-utils/stable 1.8.2.3 armhf [pouvant être mis à jour depuis : 1.8.2.2]
+apt/stable 1.8.2.3 armhf [pouvant être mis à jour depuis : 1.8.2.2]
+libapt-inst2.0/stable 1.8.2.3 armhf [pouvant être mis à jour depuis : 1.8.2.2]
+libapt-pkg5.0/stable 1.8.2.3 armhf [pouvant être mis à jour depuis : 1.8.2.2]
+wpasupplicant/stable 2:2.7+git20190128+0c1e29f-6+deb10u3 armhf [pouvant être mis à jour depuis : 2:2.7+git20190128+0c1e29f-6+deb10u2]
+============================================================================
+dimanche 25 avril 2021, 22:11:09 (UTC+0200)
+En train de lister…
+gstreamer1.0-alsa/stable 1.14.4-2+deb10u1 armhf [pouvant être mis à jour depuis : 1.14.4-2]
+gstreamer1.0-libav/stable 1.15.0.1+git20180723+db823502-2+deb10u1 armhf [pouvant être mis à jour depuis : 1.15.0.1+git20180723+db823502-2]
+gstreamer1.0-plugins-base/stable 1.14.4-2+deb10u1 armhf [pouvant être mis à jour depuis : 1.14.4-2]
+gstreamer1.0-x/stable 1.14.4-2+deb10u1 armhf [pouvant être mis à jour depuis : 1.14.4-2]
+libgstreamer-gl1.0-0/stable 1.14.4-2+deb10u1 armhf [pouvant être mis à jour depuis : 1.14.4-2]
+libgstreamer-plugins-base1.0-0/stable 1.14.4-2+deb10u1 armhf [pouvant être mis à jour depuis : 1.14.4-2]
+============================================================================
+mardi 27 avril 2021, 00:11:08 (UTC+0200)
+En train de lister…
+openjdk-11-jdk-headless/stable 11.0.11+9-1~deb10u1 armhf [pouvant être mis à jour depuis : 11.0.9.1+1-1~deb10u2]
+openjdk-11-jdk/stable 11.0.11+9-1~deb10u1 armhf [pouvant être mis à jour depuis : 11.0.9.1+1-1~deb10u2]
+openjdk-11-jre-headless/stable 11.0.11+9-1~deb10u1 armhf [pouvant être mis à jour depuis : 11.0.9.1+1-1~deb10u2]
+openjdk-11-jre/stable 11.0.11+9-1~deb10u1 armhf [pouvant être mis à jour depuis : 11.0.9.1+1-1~deb10u2]
+============================================================================
+mercredi 28 avril 2021, 23:10:18 (UTC+0200)
+En train de lister…
+rpi-eeprom/testing 12.2-1 armhf [pouvant être mis à jour depuis : 12.1-1]
+============================================================================
+vendredi 30 avril 2021, 19:01:24 (UTC+0200)
+En train de lister…
+gstreamer1.0-plugins-bad/stable 1.14.4-1+rvt+deb10u2 armhf [pouvant être mis à jour depuis : 1.14.4-1+rvt+deb10u1]
+libgstreamer-plugins-bad1.0-0/stable 1.14.4-1+rvt+deb10u2 armhf [pouvant être mis à jour depuis : 1.14.4-1+rvt+deb10u1]
+rpi-eeprom/testing 12.3-1 armhf [pouvant être mis à jour depuis : 12.2-1]
+============================================================================
+dimanche 2 mai 2021, 00:07:56 (UTC+0200)
+En train de lister…
+bind9-host/stable 1:9.11.5.P4+dfsg-5.1+deb10u5 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u3]
+libbind9-161/stable 1:9.11.5.P4+dfsg-5.1+deb10u5 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u3]
+libdns-export1104/stable 1:9.11.5.P4+dfsg-5.1+deb10u5 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u3]
+libdns1104/stable 1:9.11.5.P4+dfsg-5.1+deb10u5 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u3]
+libisc-export1100/stable 1:9.11.5.P4+dfsg-5.1+deb10u5 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u3]
+libisc1100/stable 1:9.11.5.P4+dfsg-5.1+deb10u5 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u3]
+libisccc161/stable 1:9.11.5.P4+dfsg-5.1+deb10u5 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u3]
+libisccfg163/stable 1:9.11.5.P4+dfsg-5.1+deb10u5 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u3]
+liblwres161/stable 1:9.11.5.P4+dfsg-5.1+deb10u5 armhf [pouvant être mis à jour depuis : 1:9.11.5.P4+dfsg-5.1+deb10u3]
+============================================================================
+jeudi 6 mai 2021, 21:33:08 (UTC+0200)
+En train de lister…
+nuscratch/testing 20210331 armhf [pouvant être mis à jour depuis : 20170112]
+============================================================================
+samedi 8 mai 2021, 00:36:18 (UTC+0200)
+En train de lister…
+gstreamer1.0-gtk3/testing 1.14.4-1+rpt1+deb10u1 armhf [pouvant être mis à jour depuis : 1.14.4-1+rpt1]
+gstreamer1.0-plugins-good/testing 1.14.4-1+rpt1+deb10u1 armhf [pouvant être mis à jour depuis : 1.14.4-1+rpt1]
+libraspberrypi-bin/testing 1.20210430-1 armhf [pouvant être mis à jour depuis : 1.20210303-1]
+libraspberrypi-dev/testing 1.20210430-1 armhf [pouvant être mis à jour depuis : 1.20210303-1]
+libraspberrypi-doc/testing 1.20210430-1 armhf [pouvant être mis à jour depuis : 1.20210303-1]
+libraspberrypi0/testing 1.20210430-1 armhf [pouvant être mis à jour depuis : 1.20210303-1]
+nodered/testing 1.3.4-1 armhf [pouvant être mis à jour depuis : 1.2.9-1]
+nuscratch/testing 20210507 armhf [pouvant être mis à jour depuis : 20210331]
+raspberrypi-bootloader/testing 1.20210430-1 armhf [pouvant être mis à jour depuis : 1.20210303-1]
+raspberrypi-kernel/testing 1.20210430-1 armhf [pouvant être mis à jour depuis : 1.20210303-1]
+============================================================================
+mercredi 12 mai 2021, 00:10:13 (UTC+0200)
+En train de lister…
+rp-bookshelf/testing 0.11 armhf [pouvant être mis à jour depuis : 0.9]
+rp-prefapps/testing 0.34 armhf [pouvant être mis à jour depuis : 0.33]
+============================================================================
+mercredi 12 mai 2021, 23:09:40 (UTC+0200)
+En train de lister…
+libraspberrypi-bin/testing 1:1.20210430-2 armhf [pouvant être mis à jour depuis : 1.20210430-1]
+libraspberrypi-dev/testing 1:1.20210430-2 armhf [pouvant être mis à jour depuis : 1.20210430-1]
+libraspberrypi-doc/testing 1:1.20210430-2 armhf [pouvant être mis à jour depuis : 1.20210430-1]
+libraspberrypi0/testing 1:1.20210430-2 armhf [pouvant être mis à jour depuis : 1.20210430-1]
+linux-libc-dev/testing 1:1.20210430-2 armhf [pouvant être mis à jour depuis : 4.18.20-2+rpi1]
+raspberrypi-bootloader/testing 1:1.20210430-2 armhf [pouvant être mis à jour depuis : 1.20210430-1]
+raspberrypi-kernel/testing 1:1.20210430-2 armhf [pouvant être mis à jour depuis : 1.20210430-1]
+============================================================================
+vendredi 14 mai 2021, 10:40:40 (UTC+0200)
+En train de lister…
+libpq5/stable 11.12-0+deb10u1 armhf [pouvant être mis à jour depuis : 11.11-0+deb10u1]
+============================================================================
+lundi 17 mai 2021, 22:22:22 (UTC+0200)
+En train de lister…
+pi-bluetooth/testing 0.1.16 all [pouvant être mis à jour depuis : 0.1.15]
+============================================================================
+jeudi 20 mai 2021, 22:32:49 (UTC+0200)
+En train de lister…
+rpi-eeprom/testing 12.4-1 armhf [pouvant être mis à jour depuis : 12.3-1]
+============================================================================
+vendredi 21 mai 2021, 23:16:22 (UTC+0200)
+En train de lister…
+pi-bluetooth/testing 0.1.17 all [pouvant être mis à jour depuis : 0.1.16]
+============================================================================
+lundi 24 mai 2021, 23:09:56 (UTC+0200)
+En train de lister…
+libvlc-bin/testing 3.0.12-0+deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+libvlc5/testing 3.0.12-0+deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+libvlccore9/testing 3.0.12-0+deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+libx11-6/stable 2:1.6.7-1+deb10u2 armhf [pouvant être mis à jour depuis : 2:1.6.7-1+deb10u1]
+libx11-data/stable 2:1.6.7-1+deb10u2 all [pouvant être mis à jour depuis : 2:1.6.7-1+deb10u1]
+libx11-dev/stable 2:1.6.7-1+deb10u2 armhf [pouvant être mis à jour depuis : 2:1.6.7-1+deb10u1]
+libx11-xcb1/stable 2:1.6.7-1+deb10u2 armhf [pouvant être mis à jour depuis : 2:1.6.7-1+deb10u1]
+vlc-bin/testing 3.0.12-0+deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+vlc-data/testing 3.0.12-0+deb10u1+rpt2 all [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+vlc-l10n/testing 3.0.12-0+deb10u1+rpt2 all [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+vlc-plugin-base/testing 3.0.12-0+deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+vlc-plugin-notify/testing 3.0.12-0+deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+vlc-plugin-qt/testing 3.0.12-0+deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+vlc-plugin-samba/testing 3.0.12-0+deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+vlc-plugin-skins2/testing 3.0.12-0+deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+vlc-plugin-video-output/testing 3.0.12-0+deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+vlc-plugin-video-splitter/testing 3.0.12-0+deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+vlc-plugin-visualization/testing 3.0.12-0+deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+vlc/testing 3.0.12-0+deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 3.0.12-0+deb10u1+rpt1]
+============================================================================
+mercredi 26 mai 2021, 22:15:07 (UTC+0200)
+En train de lister…
+python-spidev/testing 20200602~200721-1~buster armhf [pouvant être mis à jour depuis : 20190221~182651-1]
+python3-spidev/testing 20200602~200721-1~buster armhf [pouvant être mis à jour depuis : 20190221~182651-1]
+============================================================================
+vendredi 28 mai 2021, 23:08:46 (UTC+0200)
+En train de lister…
+libraspberrypi-bin/testing 1:1.20210527-1 armhf [pouvant être mis à jour depuis : 1:1.20210430-2]
+libraspberrypi-dev/testing 1:1.20210527-1 armhf [pouvant être mis à jour depuis : 1:1.20210430-2]
+libraspberrypi-doc/testing 1:1.20210527-1 armhf [pouvant être mis à jour depuis : 1:1.20210430-2]
+libraspberrypi0/testing 1:1.20210527-1 armhf [pouvant être mis à jour depuis : 1:1.20210430-2]
+linux-libc-dev/testing 1:1.20210527-1 armhf [pouvant être mis à jour depuis : 1:1.20210430-2]
+python-gpiozero/testing 1.6.2-1 all [pouvant être mis à jour depuis : 1.5.1]
+python3-gpiozero/testing 1.6.2-1 all [pouvant être mis à jour depuis : 1.5.1]
+raspberrypi-bootloader/testing 1:1.20210527-1 armhf [pouvant être mis à jour depuis : 1:1.20210430-2]
+raspberrypi-kernel/testing 1:1.20210527-1 armhf [pouvant être mis à jour depuis : 1:1.20210430-2]
+============================================================================
+mercredi 2 juin 2021, 14:35:22 (UTC+0200)
+En train de lister…
+thonny/testing 3.3.10-1+rpt1 all [pouvant être mis à jour depuis : 3.3.6-1+rpt1]
+============================================================================
+vendredi 4 juin 2021, 23:09:40 (UTC+0200)
+En train de lister…
+libjavascriptcoregtk-4.0-18/stable 2.32.1-1~deb10u1+rpi1 armhf [pouvant être mis à jour depuis : 2.30.6-1~deb10u1+rpi1]
+libwebkit2gtk-4.0-37/stable 2.32.1-1~deb10u1+rpi1 armhf [pouvant être mis à jour depuis : 2.30.6-1~deb10u1+rpi1]
+============================================================================
+vendredi 11 juin 2021, 20:13:26 (UTC+0200)
+En train de lister…
+ffmpeg/testing 7:4.1.6-1~deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 7:4.1.6-1~deb10u1+rpt1]
+libavcodec58/testing 7:4.1.6-1~deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 7:4.1.6-1~deb10u1+rpt1]
+libavdevice58/testing 7:4.1.6-1~deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 7:4.1.6-1~deb10u1+rpt1]
+libavfilter7/testing 7:4.1.6-1~deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 7:4.1.6-1~deb10u1+rpt1]
+libavformat58/testing 7:4.1.6-1~deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 7:4.1.6-1~deb10u1+rpt1]
+libavresample4/testing 7:4.1.6-1~deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 7:4.1.6-1~deb10u1+rpt1]
+libavutil56/testing 7:4.1.6-1~deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 7:4.1.6-1~deb10u1+rpt1]
+libpostproc55/testing 7:4.1.6-1~deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 7:4.1.6-1~deb10u1+rpt1]
+libswresample3/testing 7:4.1.6-1~deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 7:4.1.6-1~deb10u1+rpt1]
+libswscale5/testing 7:4.1.6-1~deb10u1+rpt2 armhf [pouvant être mis à jour depuis : 7:4.1.6-1~deb10u1+rpt1]
+libwebp6/stable 0.6.1-2+deb10u1 armhf [pouvant être mis à jour depuis : 0.6.1-2]
+libwebpdemux2/stable 0.6.1-2+deb10u1 armhf [pouvant être mis à jour depuis : 0.6.1-2]
+libwebpmux3/stable 0.6.1-2+deb10u1 armhf [pouvant être mis à jour depuis : 0.6.1-2]
+rpi-eeprom/testing 12.5-1 armhf [pouvant être mis à jour depuis : 12.4-1]
+ruby-activesupport/stable 2:5.2.2.1+dfsg-1+deb10u3 all [pouvant être mis à jour depuis : 2:5.2.2.1+dfsg-1+deb10u2]
+============================================================================
+vendredi 18 juin 2021, 00:20:21 (UTC+0200)
+En train de lister…
+liblirc-client0/testing 0.10.1-6.3~deb10u1+rpt1 armhf [pouvant être mis à jour depuis : 0.10.1-6.3~deb10u1]
+============================================================================
+samedi 19 juin 2021, 12:35:36 (UTC+0200)
+En train de lister…
+libhogweed4/stable 3.4.1-1+deb10u1 armhf [pouvant être mis à jour depuis : 3.4.1-1]
+libnettle6/stable 3.4.1-1+deb10u1 armhf [pouvant être mis à jour depuis : 3.4.1-1]
+============================================================================
+dimanche 20 juin 2021, 00:36:16 (UTC+0200)
+En train de lister…
+isc-dhcp-client/stable 4.4.1-2+deb10u1 armhf [pouvant être mis à jour depuis : 4.4.1-2]
+isc-dhcp-common/stable 4.4.1-2+deb10u1 armhf [pouvant être mis à jour depuis : 4.4.1-2]
+libfluidsynth1/stable 1.1.11-1+deb10u1 armhf [pouvant être mis à jour depuis : 1.1.11-1]
+libgcrypt20/stable 1.8.4-5+deb10u1 armhf [pouvant être mis à jour depuis : 1.8.4-5]
+libgnutls30/stable 3.6.7-4+deb10u7 armhf [pouvant être mis à jour depuis : 3.6.7-4+deb10u6]
+libmariadb3/stable 1:10.3.29-0+deb10u1 armhf [pouvant être mis à jour depuis : 1:10.3.27-0+deb10u1]
+libxml2/stable 2.9.4+dfsg1-7+deb10u2 armhf [pouvant être mis à jour depuis : 2.9.4+dfsg1-7+deb10u1]
+mariadb-client-10.3/stable 1:10.3.29-0+deb10u1 armhf [pouvant être mis à jour depuis : 1:10.3.27-0+deb10u1]
+mariadb-client-core-10.3/stable 1:10.3.29-0+deb10u1 armhf [pouvant être mis à jour depuis : 1:10.3.27-0+deb10u1]
+mariadb-common/stable 1:10.3.29-0+deb10u1 all [pouvant être mis à jour depuis : 1:10.3.27-0+deb10u1]
+mariadb-server-10.3/stable 1:10.3.29-0+deb10u1 armhf [pouvant être mis à jour depuis : 1:10.3.27-0+deb10u1]
+mariadb-server-core-10.3/stable 1:10.3.29-0+deb10u1 armhf [pouvant être mis à jour depuis : 1:10.3.27-0+deb10u1]
+mariadb-server/stable 1:10.3.29-0+deb10u1 all [pouvant être mis à jour depuis : 1:10.3.27-0+deb10u1]
+nmap-common/stable 7.70+dfsg1-6+deb10u2 all [pouvant être mis à jour depuis : 7.70+dfsg1-6+deb10u1]
+nmap/stable 7.70+dfsg1-6+deb10u2 armhf [pouvant être mis à jour depuis : 7.70+dfsg1-6+deb10u1]
+node-hosted-git-info/stable 2.7.1-1+deb10u1 all [pouvant être mis à jour depuis : 2.7.1-1]
+============================================================================
+lundi 21 juin 2021, 23:49:43 (UTC+0200)
+En train de lister…
+rpi-eeprom/testing 12.6-1 armhf [pouvant être mis à jour depuis : 12.5-1]
+============================================================================
+mardi 22 juin 2021, 22:13:55 (UTC+0200)
+En train de lister…
+libegl-mesa0/testing 19.3.2-1~bpo10+1~rpt4 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt3]
+libgbm1/testing 19.3.2-1~bpo10+1~rpt4 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt3]
+libgl1-mesa-dri/testing 19.3.2-1~bpo10+1~rpt4 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt3]
+libglapi-mesa/testing 19.3.2-1~bpo10+1~rpt4 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt3]
+libgles2-mesa/testing 19.3.2-1~bpo10+1~rpt4 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt3]
+libglx-mesa0/testing 19.3.2-1~bpo10+1~rpt4 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt3]
+liblz4-1/stable 1.8.3-1+deb10u1 armhf [pouvant être mis à jour depuis : 1.8.3-1]
+mesa-va-drivers/testing 19.3.2-1~bpo10+1~rpt4 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt3]
+mesa-vdpau-drivers/testing 19.3.2-1~bpo10+1~rpt4 armhf [pouvant être mis à jour depuis : 19.3.2-1~bpo10+1~rpt3]
+============================================================================
+jeudi 24 juin 2021, 13:21:36 (UTC+0200)
+En train de lister…
+firmware-atheros/testing 1:20190114-2+rpt1 all [pouvant être mis à jour depuis : 1:20190114-1+rpt11]
+firmware-brcm80211/testing 1:20190114-2+rpt1 all [pouvant être mis à jour depuis : 1:20190114-1+rpt11]
+firmware-libertas/testing 1:20190114-2+rpt1 all [pouvant être mis à jour depuis : 1:20190114-1+rpt11]
+firmware-misc-nonfree/testing 1:20190114-2+rpt1 all [pouvant être mis à jour depuis : 1:20190114-1+rpt11]
+firmware-realtek/testing 1:20190114-2+rpt1 all [pouvant être mis à jour depuis : 1:20190114-1+rpt11]
+============================================================================
+vendredi 25 juin 2021, 22:42:28 (UTC+0200)
+En train de lister…
+base-files/stable 10.3+rpi1+deb10u10 armhf [pouvant être mis à jour depuis : 10.3+rpi1+deb10u9]
+klibc-utils/stable 2.0.6-1+rpi1+deb10u1 armhf [pouvant être mis à jour depuis : 2.0.6-1+rpi1]
+libklibc/stable 2.0.6-1+rpi1+deb10u1 armhf [pouvant être mis à jour depuis : 2.0.6-1+rpi1]
+rpi-eeprom/testing 12.7-1 armhf [pouvant être mis à jour depuis : 12.6-1]
+============================================================================
+dimanche 27 juin 2021, 11:17:48 (UTC+0200)
+En train de lister…
+============================================================================
+mercredi 30 juin 2021, 00:31:42 (UTC+0200)
+En train de lister…
+wolfram-engine/testing 12.2.0+2021041101 armhf [pouvant être mis à jour depuis : 12.1.1+2020081901]
+wolframscript/testing 1.5.0+2021042353 armhf [pouvant être mis à jour depuis : 1.4.0+2020081702]
+============================================================================
+mercredi 30 juin 2021, 22:18:24 (UTC+0200)
+En train de lister…
+============================================================================
+lundi 5 juillet 2021, 23:13:22 (UTC+0200)
+En train de lister…
+dillo/testing 3.0.5-5+rpt1 armhf [pouvant être mis à jour depuis : 3.0.5-5]
+rpi-update/testing 20210618 all [pouvant être mis à jour depuis : 20200409]
+============================================================================
+mercredi 7 juillet 2021, 00:42:45 (UTC+0200)
+En train de lister…
+libapache2-mod-php7.3/stable 7.3.29-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+libuv1-dev/stable 1.24.1-1+deb10u1 armhf [pouvant être mis à jour depuis : 1.24.1-1]
+libuv1/stable 1.24.1-1+deb10u1 armhf [pouvant être mis à jour depuis : 1.24.1-1]
+php7.3-bz2/stable 7.3.29-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+php7.3-cli/stable 7.3.29-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+php7.3-common/stable 7.3.29-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+php7.3-curl/stable 7.3.29-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+php7.3-gd/stable 7.3.29-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+php7.3-json/stable 7.3.29-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+php7.3-mbstring/stable 7.3.29-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+php7.3-mysql/stable 7.3.29-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+php7.3-opcache/stable 7.3.29-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+php7.3-readline/stable 7.3.29-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+php7.3-xml/stable 7.3.29-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+php7.3-zip/stable 7.3.29-1~deb10u1 armhf [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+php7.3/stable 7.3.29-1~deb10u1 all [pouvant être mis à jour depuis : 7.3.27-1~deb10u1]
+rpi-eeprom/testing 12.8-1 armhf [pouvant être mis à jour depuis : 12.7-1]
+============================================================================
+mercredi 7 juillet 2021, 23:58:58 (UTC+0200)
+En train de lister…
+raspberrypi-sys-mods/testing 20210706 armhf [pouvant être mis à jour depuis : 20210310]
+raspberrypi-ui-mods/testing 1.20210706 armhf [pouvant être mis à jour depuis : 1.20201210+nmu1]
+rpi-eeprom/testing 12.9-1 armhf [pouvant être mis à jour depuis : 12.8-1]
+============================================================================
+jeudi 8 juillet 2021, 22:42:00 (UTC+0200)
+En train de lister…
+gpicview/testing 0.2.5-2+rpt1 armhf [pouvant être mis à jour depuis : 0.2.5-2]
+============================================================================
+vendredi 9 juillet 2021, 22:15:07 (UTC+0200)
+En train de lister…
+apache2-bin/stable 2.4.38-3+deb10u5 armhf [pouvant être mis à jour depuis : 2.4.38-3+deb10u4]
+apache2-data/stable 2.4.38-3+deb10u5 all [pouvant être mis à jour depuis : 2.4.38-3+deb10u4]
+apache2-utils/stable 2.4.38-3+deb10u5 armhf [pouvant être mis à jour depuis : 2.4.38-3+deb10u4]
+apache2/stable 2.4.38-3+deb10u5 armhf [pouvant être mis à jour depuis : 2.4.38-3+deb10u4]
+============================================================================
+samedi 10 juillet 2021, 22:58:04 (UTC+0200)
+En train de lister…
+============================================================================
+jeudi 22 juillet 2021, 23:24:47 (UTC+0200)
+En train de lister…
+rp-bookshelf/testing 0.14 armhf [pouvant être mis à jour depuis : 0.11]
+============================================================================
+vendredi 23 juillet 2021, 16:40:56 (UTC+0200)
+En train de lister…
+============================================================================
+lundi 26 juillet 2021, 11:53:49 (UTC+0200)
+En train de lister…
+libgssapi-krb5-2/stable 1.17-3+deb10u2 armhf [pouvant être mis à jour depuis : 1.17-3+deb10u1]
+libk5crypto3/stable 1.17-3+deb10u2 armhf [pouvant être mis à jour depuis : 1.17-3+deb10u1]
+libkrb5-3/stable 1.17-3+deb10u2 armhf [pouvant être mis à jour depuis : 1.17-3+deb10u1]
+libkrb5support0/stable 1.17-3+deb10u2 armhf [pouvant être mis à jour depuis : 1.17-3+deb10u1]
