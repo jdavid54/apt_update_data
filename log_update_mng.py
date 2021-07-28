@@ -99,10 +99,15 @@ data_module = pd.DataFrame(data.module.to_list())
 all_mod = [[i for i in data_module[k]] for k in range(39)]
 all_mod = np.array(all_mod).flatten()
 
-df4 = pd.DataFrame(all_mod)
+# count occurences
+df4 = pd.DataFrame(all_mod).dropna()
 occurs = df4.value_counts()
+# convert multi index to simple index
+list_index= [x[0] for x in occurs.index]
+occurs.index = list_index
 print(occurs)
 
+# plot bar by ascending occurences more than 2
 thres = 2
 over5 = occurs[occurs>thres]
 over5.plot.barh(rot=0)
