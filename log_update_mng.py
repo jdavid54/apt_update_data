@@ -63,6 +63,7 @@ data_month = data.groupby(pd.Grouper(key='Date',freq='M'))['updates'].count()
 print(data_month)
 #plt.bar(data_hour)
 data_month.plot.bar(rot=0)
+plt.title('updates by month')
 ax.set_xticklabels(data_month.index.month) 
 plt.show()
 
@@ -86,7 +87,7 @@ print('row',d,test)
 df = data['updates'].apply(make_columns)
 df2 = pd.DataFrame({'all': df})
 # https://stackoverflow.com/questions/35491274/split-a-pandas-column-of-lists-into-multiple-columns
-data[['module','source','version']] = pd.DataFrame(df2['all'].tolist(), index= df2.index)
+data[['module','source','version']] = pd.DataFrame(df2['all'].tolist()) #, index= df2.index)
 # pd.DataFrame(df2["all"].to_list(), columns=['mod','package','ver'])
 print(data['module'])
 
@@ -95,19 +96,27 @@ df3.columns = ['module', 'source','version']
 print(df3)
 
 data_module = pd.DataFrame(data.module.to_list())
+print('Last update')
+print(data.tail(1).date)
+print(data_module.tail(1).T.dropna())
 
+# list of updated modules
 all_mod = [[i for i in data_module[k]] for k in range(39)]
 all_mod = np.array(all_mod).flatten()
 
+# create dataframe
+df_mod = pd.DataFrame(all_mod, columns=['updated_modules']).dropna()
+
 # count occurences
-df4 = pd.DataFrame(all_mod).dropna()
-occurs = df4.value_counts()
-# convert multi index to simple index
+occurs = df_mod.value_counts()
+
+# counts() returns a multi-index pandas.Series
+# convert multi-index to simple index
 list_index= [x[0] for x in occurs.index]
 occurs.index = list_index
-print(occurs)
+#print(occurs)
 
-# plot bar by ascending occurences more than 2
+# plot bar by ascending occurences
 thres = 2
 over5 = occurs[occurs>thres]
 over5.plot.barh(rot=0)
@@ -116,8 +125,14 @@ plt.yticks(fontsize=8) #, rotation=0)
 plt.tight_layout()
 plt.show()
 
+# plot bar by names
 over5.sort_index(ascending=False).plot.barh()
 #ax.set_xticklabels(over5.index)
 plt.yticks(fontsize=8, rotation=0)
 plt.tight_layout()
 plt.show()
+
+# sources as lists in columns
+# https://towardsdatascience.com/dealing-with-list-values-in-pandas-dataframes-a177e534f173
+dataT = data.T
+source = np.array(dataT.loc['source']).flatten()
