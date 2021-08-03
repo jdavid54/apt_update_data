@@ -158,11 +158,11 @@ def to_1D(series):
  return pd.Series([x for _list in series for x in _list])
 
 unique_items = to_1D(data["source"]).value_counts()
-print('sources uniques',unique_items)
+print('sources :\n',unique_items)
 
 print('testing')
 all_sources = sources[0].dropna()
-print(all_sources)
+#print(all_sources)
 
 testing_count = all_sources[all_sources=='testing'].count()
 
