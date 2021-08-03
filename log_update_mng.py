@@ -161,13 +161,13 @@ unique_items = to_1D(data["source"]).value_counts()
 print('sources uniques',unique_items)
 
 print('testing')
-all = sources[0].dropna()
-print(all)
+all_sources = sources[0].dropna()
+print(all_sources)
 
-testing_count = all[all=='testing'].count()
+testing_count = all_sources[all_sources=='testing'].count()
 
 update_testing = sources[0][sources[0]=='testing'].count()
-print('Pct of testing update', round(testing_count/len(all)*100,2),'%')
+print('Pct of testing update', round(testing_count/len(all_sources)*100,2),'%')
 
 plotting()
 plotting1()
