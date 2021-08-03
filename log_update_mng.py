@@ -155,12 +155,20 @@ dataT = data.T
 sources = data["source"].apply(pd.Series)
 
 def to_1D(series):
- return pd.Series([x for _list in series for x in _list])
+    #return pd.Series([x if type(_list)==list else _list for _list in series for x in _list])
+    return pd.Series([x for _list in series for x in _list])
+
+def flatten(series):
+    rt = []
+    for i in series:
+        if isinstance(i,list): rt.extend(flatten(i))
+        else: rt.append(i)
+    return rt
 
 unique_items = to_1D(data["source"]).value_counts()
 print('sources :\n',unique_items)
 
-print('testing')
+#print('testing')
 all_sources = sources[0].dropna()
 #print(all_sources)
 
@@ -169,5 +177,27 @@ testing_count = all_sources[all_sources=='testing'].count()
 update_testing = sources[0][sources[0]=='testing'].count()
 print('Pct of testing update', round(testing_count/len(all_sources)*100,2),'%')
 
-plotting()
-plotting1()
+#plotting()
+#plotting1()
+
+
+# list the last
+# for loops
+for k in list(updates[-1]):
+        if type(k) != list:
+            print(k)
+        else:
+            for j in k:
+                print('\t',j)
+
+# flatten
+print()
+for k in flatten(updates[-1]):
+            print(k,'\n\t ',end='')
+
+# translate, maketrans
+print()
+mytable=str(updates[-1]).maketrans("[]()'","     ")
+split_list=str(updates[-1]).translate(mytable).split(' , ')
+for k in split_list:
+    print(k.strip(),'\n\t ',end='')
