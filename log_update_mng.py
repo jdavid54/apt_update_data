@@ -14,7 +14,7 @@ with open('/home/pi/Desktop/log_update.txt') as f:
         elif '[pouvant' in line :
             module.append(line.strip().replace(u'\xa0', u' ')) # https://www.delftstack.com/howto/python/ways-to-remove-xa0-from-a-string-in-python/                 
         elif '===='  in line  and module != []: # if updates detected
-            print(module)
+            # print(module)
             updates.append((date, module))
     
 # last update        
@@ -47,10 +47,10 @@ if debug: print('Heure USA\n',data['Date'].apply(lambda x: x.tz_convert('US/East
 data['Date'] = data['Date'].dt.tz_convert('Europe/Paris')
 if debug: print('Heure Paris\n',data)
 
-print(data.tail())
-print(data.iloc[-1])
 
 if debug:
+    print(data.tail())
+    print(data.iloc[-1])
     d =13
     print()
     print(data['date'][d])
@@ -110,7 +110,7 @@ if debug:
 last = 2
 print('Last',last,'updates')
 data_module = pd.DataFrame(data.module.to_list())
-print('Last update')
+#print('Last update')
 #print(data.tail(last).date)
 print(data.tail(last).T)
 
@@ -131,22 +131,23 @@ list_index= [x[0] for x in occurs.index]
 occurs.index = list_index
 #print(occurs)
 
-def plotting1():
-    # plot bar by ascending occurences
+def plotting1(sort=True):
     thres = 2
     over5 = occurs[occurs>thres]
     over5.plot.barh(rot=0)
-    #ax.set_xticklabels(over5.index)
-    plt.yticks(fontsize=8) #, rotation=0)
-    plt.tight_layout()
-    plt.show()
-
-    # plot bar by names
-    over5.sort_index(ascending=False).plot.barh()
-    #ax.set_xticklabels(over5.index)
-    plt.yticks(fontsize=8, rotation=0)
-    plt.tight_layout()
-    plt.show()
+    if not sort:
+        # plot bar by ascending occurences        
+        #ax.set_xticklabels(over5.index)
+        plt.yticks(fontsize=8) #, rotation=0)
+        plt.tight_layout()
+        plt.show()
+    else:
+        # plot bar by names
+        over5.sort_index(ascending=False).plot.barh()
+        #ax.set_xticklabels(over5.index)
+        plt.yticks(fontsize=8, rotation=0)
+        plt.tight_layout()
+        plt.show()
 
 # sources as lists in columns
 # https://towardsdatascience.com/dealing-with-list-values-in-pandas-dataframes-a177e534f173
@@ -165,39 +166,46 @@ def flatten(series):
         else: rt.append(i)
     return rt
 
+# find sources
 unique_items = to_1D(data["source"]).value_counts()
-print('sources :\n',unique_items)
+print('\nsources :\n',unique_items,'\n')
 
 #print('testing')
 all_sources = sources[0].dropna()
 #print(all_sources)
 
+# calc percentage of updates from source = testing
 testing_count = all_sources[all_sources=='testing'].count()
 
 update_testing = sources[0][sources[0]=='testing'].count()
 print('Pct of testing update', round(testing_count/len(all_sources)*100,2),'%')
 
-#plotting()
-#plotting1()
+plotting()
+plotting1()
 
 
 # list the last
-# for loops
-for k in list(updates[-1]):
-        if type(k) != list:
-            print(k)
-        else:
-            for j in k:
-                print('\t',j)
+def show_last(method=1):
+    if method==1: 
+        # for loops
+        for k in list(updates[-1]):
+                if type(k) != list:
+                    print(k)
+                else:
+                    for j in k:
+                        print('\t',j)
+    if method==2:
+        # flatten
+        print()
+        for k in flatten(updates[-1]):
+                    print(k,'\n\t ',end='')
 
-# flatten
-print()
-for k in flatten(updates[-1]):
-            print(k,'\n\t ',end='')
+    if method==3:
+        # translate, maketrans
+        print()
+        mytable=str(updates[-1]).maketrans("[]()'","     ")
+        split_list=str(updates[-1]).translate(mytable).split(' , ')
+        for k in split_list:
+            print(k.strip(),'\n\t ',end='')
 
-# translate, maketrans
-print()
-mytable=str(updates[-1]).maketrans("[]()'","     ")
-split_list=str(updates[-1]).translate(mytable).split(' , ')
-for k in split_list:
-    print(k.strip(),'\n\t ',end='')
+show_last()
