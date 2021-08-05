@@ -2,6 +2,7 @@ import numpy as np
 debug = False
 
 updates=[]
+
 with open('/home/pi/Desktop/log_update.txt') as f:
     # read all the lines until EOF
     data = f.readlines()
@@ -12,11 +13,10 @@ with open('/home/pi/Desktop/log_update.txt') as f:
             # print(date)
         elif '[pouvant' in line :
             module.append(line.strip().replace(u'\xa0', u' ')) # https://www.delftstack.com/howto/python/ways-to-remove-xa0-from-a-string-in-python/                 
-        elif '===='  in line and module != []: # if updates detected
-            # print(module)
+        elif '===='  in line  and module != []: # if updates detected
+            print(module)
             updates.append((date, module))
-    updates.append((date, module))
-
+    
 # last update        
 print(updates[-1][0])
 print(updates[-1][1])
