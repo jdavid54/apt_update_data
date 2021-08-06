@@ -6,16 +6,21 @@ updates=[]
 with open('/home/pi/Desktop/log_update.txt') as f:
     # read all the lines until EOF
     data = f.readlines()
-    for line in data:                      
+
+    for line in data:
+        #print(line)        
         if '(UTC' in line :
             date=line.strip()
             module = []
-            # print(date)
         elif '[pouvant' in line :
-            module.append(line.strip().replace(u'\xa0', u' ')) # https://www.delftstack.com/howto/python/ways-to-remove-xa0-from-a-string-in-python/                 
-        elif '===='  in line  and module != []: # if updates detected
-            # print(module)
+            module.append(line.strip().replace(u'\xa0', u' ')) # https://www.delftstack.com/howto/python/ways-to-remove-xa0-from-a-string-in-python/                         
+        elif '===' in line and module != []:   # if updates detected
             updates.append((date, module))
+            module =[]
+    # append last update
+    if module != []:
+        updates.append((date, module))
+        
     
 # last update        
 print(updates[-1][0])
@@ -132,6 +137,7 @@ occurs.index = list_index
 #print(occurs)
 
 def plotting1(sort=True):
+    fig, ax = plt.subplots(figsize=(10,10))
     thres = 2
     over5 = occurs[occurs>thres]
     over5.plot.barh(rot=0)
@@ -186,6 +192,7 @@ plotting1()
 
 # list the last
 def show_last(method=1):
+    print()
     if method==1: 
         # for loops
         for k in list(updates[-1]):
@@ -195,17 +202,15 @@ def show_last(method=1):
                     for j in k:
                         print('\t',j)
     if method==2:
-        # flatten
-        print()
+        # flatten        
         for k in flatten(updates[-1]):
                     print(k,'\n\t ',end='')
 
     if method==3:
         # translate, maketrans
-        print()
         mytable=str(updates[-1]).maketrans("[]()'","     ")
         split_list=str(updates[-1]).translate(mytable).split(' , ')
         for k in split_list:
             print(k.strip(),'\n\t ',end='')
 
-show_last()
+show_last(2)
